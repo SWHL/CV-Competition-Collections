@@ -1,0 +1,4 @@
+{{- partial "shortcodes/siteparam.html" (dict
+  "context" .
+  "name"    (.Get "name" | default (.Get 0))
+) }}
