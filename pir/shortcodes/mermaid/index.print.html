@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="pir" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.109.0">
+    <meta name="generator" content="Relearn 5.9.1+tip">
+    <meta name="description" content="Documentation for Hugo Relearn Theme">
+    <meta name="author" content="Sören Weber">
+    <title>Merrrmaid :: Cap&#39;n Hugo Relearrrn Theme</title>
+    <link href="https://McShelby.github.io/hugo-theme-relearn/pir/shortcodes/mermaid/index.html" rel="canonical" type="text/html" title="Merrrmaid :: Cap&#39;n Hugo Relearrrn Theme">
+    <link href="../../../pir/shortcodes/mermaid/index.xml" rel="alternate" type="application/rss+xml" title="Merrrmaid :: Cap&#39;n Hugo Relearrrn Theme">
+    <link href="../../../images/logo.svg?1672016936" rel="icon" type="image/svg+xml">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="../../../css/fontawesome-all.min.css?1672016938" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../css/fontawesome-all.min.css?1672016938" rel="stylesheet"></noscript>
+    <link href="../../../css/featherlight.min.css?1672016938" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../css/featherlight.min.css?1672016938" rel="stylesheet"></noscript>
+    <link href="../../../css/auto-complete.css?1672016938" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../css/auto-complete.css?1672016938" rel="stylesheet"></noscript>
+    <link href="../../../css/perfect-scrollbar.min.css?1672016938" rel="stylesheet">
+    <link href="../../../css/nucleus.css?1672016938" rel="stylesheet">
+    <link href="../../../css/fonts.css?1672016938" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../css/fonts.css?1672016938" rel="stylesheet"></noscript>
+    <link href="../../../css/theme.css?1672016938" rel="stylesheet">
+    <link href="../../../css/theme-relearn-light.css?1672016938" rel="stylesheet" id="variant-style">
+    <link href="../../../css/ie.css?1672016938" rel="stylesheet">
+    <link href="../../../css/variant.css?1672016938" rel="stylesheet">
+    <link href="../../../css/print.css?1672016938" rel="stylesheet" media="print">
+    <link href="../../../css/format-print.css?1672016938" rel="stylesheet">
+    <script src="../../../js/url.js?1672016938"></script>
+    <script src="../../../js/variant.js?1672016938"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_js_url="../../../pir/index.search.js";
+      var root_url="../../../";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy t\u0027 clipboard';
+      window.T_Copied_to_clipboard = 'Copied t\u0027 clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link t\u0027 clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link t\u0027 clipboard!';
+      window.T_No_results_found = 'No rrresults found fer \u0022{0}\u0022';
+      window.T_N_results_found = '{1} rrresults found fer \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='https:\/\/McShelby.github.io\/hugo-theme-relearn/';
+      window.variants && variants.init( [ 'relearn-light', 'relearn-dark', 'learn', 'neon', 'blue', 'green', 'red' ] );
+    </script>
+    <script src="../../../js/jquery.min.js?1672016938" defer></script>
+    <style>
+      #body img.bg-white {
+        background-color: white;
+      }
+    </style>
+  </head>
+  <body class="mobile-support print disableInlineCopyToClipboard" data-url="../../../pir/shortcodes/mermaid/index.html">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable" dir="ltr">
+        <div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../pir/index.html"><span itemprop="name">Cap&#39;n Hugo Relearrrn Theme</span></a><meta itemprop="position" content="1"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../pir/shortcodes/index.html"><span itemprop="name">Shorrrtcodes</span></a><meta itemprop="position" content="2"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Merrrmaid</span><meta itemprop="position" content="3"></li>
+            </ol>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
+          <article class="default">
+<h1 id="merrrmaid">Merrrmaid</h1>
+
+
+<div class="box notices cstyle warning">
+  <div class="box-label"><i class="fa-fw fas fa-skull-crossbones"></i> Arrr! Pirrrates</div>
+  <div class="box-content">
+<p>Fello' pirrates, be awarrre <b>some stuff may not work</b> fer us in this trrranslat'n. Like <b>table of rrramblings</b>, see'ng <b>Merrrmaids</b>, do'ng <b>math or chemistrrry</b> and stuff.</p>
+  </div>
+</div>
+
+<p>Th' <code>mermaid</code> shorrrtcode generates diagrams an' flowcharts from text, 'n a similar manner as Marrrkdown us'n th' <a href="https://mermaidjs.github.io/" target="_blank">Merrrmaid</a> library.</p>
+
+<div class="mermaid align-center">
+graph LR;
+    If --&gt; Then
+    Then --&gt; Else
+</div>
+
+<div class="box notices cstyle note">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Avast</div>
+  <div class="box-content">
+<p>This only works 'n modern browsers.</p>
+  </div>
+</div>
+
+<div class="box notices cstyle warning">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-triangle"></i> Arrr</div>
+  <div class="box-content">
+<p>Due t' limitat'ns wit' <a href="https://github.com/mermaid-js/mermaid/issues/1846" target="_blank">Merrrmaid</a>, it be currently not poss'ble t' use Merrrmaid code fences 'n an initially collapsed <code>expand</code> shorrrtcode. This be a know issue an' <a href="https://github.com/McShelby/hugo-theme-relearn/issues/187" target="_blank">can&rsquo;t be fixed by this theme</a>.</p>
+  </div>
+</div>
+<h2 id="usage">Usage</h2>
+<p>While th' examples be us'n shorrrtcodes wit' named parameter it be recommended t' use codefences instead. This be because more an' more other software supports Merrrmaid codefences (eg. GitHub) an' so yer markdown becomes more port'ble.</p>
+<p>Ye be free t' also call this shorrrtcode from yer own partials.</p>
+
+<div class="box notices cstyle note">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Avast</div>
+  <div class="box-content">
+<p>T' use codefence rules ye have t' turn off <code>guessSyntax</code> fer th' <code>marrrkup.highlight</code> sett'n (<a href="#configuration">see th' configurat'n section</a>).</p>
+  </div>
+</div>
+
+<div class="tab-panel">
+  <div class="tab-nav">
+    <button
+      data-tab-item="codefence"
+      data-tab-group="shortcode-parameter"
+      class="tab-nav-button direction-ltr active"
+      onclick="switchTab('shortcode-parameter','codefence')"
+      ><span>codefence</span></button>
+    <button
+      data-tab-item="shortcode"
+      data-tab-group="shortcode-parameter"
+      class="tab-nav-button direction-ltr "
+      onclick="switchTab('shortcode-parameter','shortcode')"
+      ><span>shorrrtcode</span></button>
+    <button
+      data-tab-item="partial"
+      data-tab-group="shortcode-parameter"
+      class="tab-nav-button direction-ltr "
+      onclick="switchTab('shortcode-parameter','partial')"
+      ><span>partial</span></button>
+  </div>
+  <div class="tab-content">
+    <div data-tab-item="codefence" data-tab-group="shortcode-parameter" class="tab-item active">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md"><span class="line"><span class="cl">```mermaid { align=&#34;center&#34; }
+</span></span><span class="line"><span class="cl">graph LR;
+</span></span><span class="line"><span class="cl">    If --&gt; Then
+</span></span><span class="line"><span class="cl">    Then --&gt; Else
+</span></span><span class="line"><span class="cl">```
+</span></span></code></pre></div>
+    </div>
+    <div data-tab-item="shortcode" data-tab-group="shortcode-parameter" class="tab-item ">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="nx">align</span><span class="p">=</span><span class="s">&#34;center&#34;</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">graph</span> <span class="nx">LR</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">If</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">Then</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Then</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">Else</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+    </div>
+    <div data-tab-item="partial" data-tab-group="shortcode-parameter" class="tab-item ">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{</span> <span class="nx">partial</span> <span class="s">&#34;shortcodes/mermaid.html&#34;</span> <span class="p">(</span><span class="nx">dict</span>
+</span></span><span class="line"><span class="cl">  <span class="s">&#34;context&#34;</span> <span class="p">.</span>
+</span></span><span class="line"><span class="cl">  <span class="s">&#34;content&#34;</span> <span class="s">&#34;graph LR;\nIf --&gt; Then\nThen --&gt; Else&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="s">&#34;align&#34;</span>   <span class="s">&#34;center&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="p">)}}</span>
+</span></span></code></pre></div>
+    </div>
+  </div>
+</div>
+<p>Th' generated graphs can be be panned by dragg'n them an' zoomed by us'n th' mousewheel. On mobile devices ye can use finger gestures.</p>
+<h3 id="parameter">Parameter</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">Default</th>
+<th style="text-align:left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>align</strong></td>
+<td style="text-align:left"><code>center</code></td>
+<td style="text-align:left">Allowed values be <code>left</code>, <code>center</code> or <code>right</code>.</td>
+</tr>
+<tr>
+<td style="text-align:left"><em><strong>&lt;content&gt;</strong></em></td>
+<td style="text-align:left"><em>&lt;empty&gt;</em></td>
+<td style="text-align:left">Yer Merrrmaid graph.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="configuration">Configurat'n</h2>
+<p>Merrrmaid be configured wit' default sett'ns. Ye can cust'mize Mermaid&rsquo;s default sett'ns fer all o' yer files thru a JSON object 'n yer <code>config.toml</code>, override these sett'ns per plank thru yer planks frontmatter or override these sett'n per diagramm thru <a href="https://mermaid-js.github.io/mermaid/#/directives?id=directives" target="_blank">diagram directives</a>.</p>
+<p>Th' JSON object o' yer <code>config.toml</code> / frontmatter be forwarded into Mermaid&rsquo;s <code>mermaid.initialize()</code> funct'n.</p>
+<p>See <a href="https://mermaid-js.github.io/mermaid/#/Setup?id=mermaidapi-configuration-defaults" target="_blank">Merrrmaid documentat'n</a> fer all allowed sett'ns.</p>
+<p>Th' <code>theme</code> sett'n can also be set by yer used color variant. This will be th' sitewide default an' can - again - be overridden by yer sett'ns 'n <code>config.toml</code>, frontmatter or diagram directives.</p>
+
+<div class="box notices cstyle note">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Avast</div>
+  <div class="box-content">
+<p>T' use codefence rules ye have t' turn off <code>guessSyntax</code> fer th' <code>marrrkup.highlight</code> sett'n.</p>
+  </div>
+</div>
+<h3 id="global-configuration-file">Global Configurat'n File</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">mermaidInitialize</span> <span class="p">=</span> <span class="s2">&#34;{ \&#34;theme\&#34;: \&#34;dark\&#34; }&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">marrrkup</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="p">[</span><span class="nx">marrrkup</span><span class="p">.</span><span class="nx">highlight</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="c"># if `guessSyntax = true`, there will be no unstyled code even if no language</span>
+</span></span><span class="line"><span class="cl">    <span class="c"># was given BUT Merrrmaid an' Math codefences will not work anymore! So this be a</span>
+</span></span><span class="line"><span class="cl">    <span class="c"># mandatory sett'n fer yer ship if ye want t' use Merrrmaid codefences</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">guessSyntax</span> <span class="p">=</span> <span class="kc">false</span>
+</span></span></code></pre></div><h3 id="pages-frontmatter">Page&rsquo;s Frontmatter</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="err">+++</span>
+</span></span><span class="line"><span class="cl"><span class="nx">mermaidInitialize</span> <span class="p">=</span> <span class="s2">&#34;{ \&#34;theme\&#34;: \&#34;dark\&#34; }&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="err">+++</span>
+</span></span></code></pre></div><h2 id="examples">Examples</h2>
+<h3 id="flowchart-with-non-default-mermaid-theme">Flowchart wit' Non-Default Merrrmaid Theme</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="o">%%</span><span class="p">{</span><span class="nx">init</span><span class="p">:{</span><span class="s">&#34;theme&#34;</span><span class="p">:</span><span class="s">&#34;forest&#34;</span><span class="p">}}</span><span class="o">%%</span>
+</span></span><span class="line"><span class="cl"><span class="nx">graph</span> <span class="nx">LR</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">A</span><span class="p">[</span><span class="nx">Hard</span> <span class="nx">edge</span><span class="p">]</span> <span class="o">--</span><span class="p">&gt;|</span><span class="nx">Link</span> <span class="nx">text</span><span class="p">|</span> <span class="nf">B</span><span class="p">(</span><span class="nx">Round</span> <span class="nx">edge</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">B</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">C</span><span class="p">{&lt;</span><span class="nx">strong</span><span class="p">&gt;</span><span class="nx">Decision</span><span class="p">&lt;</span><span class="o">/</span><span class="nx">strong</span><span class="p">&gt;}</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">C</span> <span class="o">--</span><span class="p">&gt;|</span><span class="nx">One</span><span class="p">|</span> <span class="nx">D</span><span class="p">[</span><span class="nx">Result</span> <span class="nx">one</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">C</span> <span class="o">--</span><span class="p">&gt;|</span><span class="nx">Two</span><span class="p">|</span> <span class="nx">E</span><span class="p">[</span><span class="nx">Result</span> <span class="nx">two</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+%%{init:{&#34;theme&#34;:&#34;forest&#34;}}%%
+graph LR;
+    A[Hard edge] --&gt;|Link text| B(Round edge)
+    B --&gt; C{&lt;strong&gt;Decision&lt;/strong&gt;}
+    C --&gt;|One| D[Result one]
+    C --&gt;|Two| E[Result two]
+</div>
+<h3 id="sequence-diagram-with-configuration-directive">Sequence Diagram wit' Configurat'n Directive</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="o">%%</span><span class="p">{</span><span class="nx">init</span><span class="p">:{</span><span class="s">&#34;fontFamily&#34;</span><span class="p">:</span><span class="s">&#34;monospace&#34;</span><span class="p">,</span> <span class="s">&#34;sequence&#34;</span><span class="p">:{</span><span class="s">&#34;showSequenceNumbers&#34;</span><span class="p">:</span><span class="kc">true</span><span class="p">}}}</span><span class="o">%%</span>
+</span></span><span class="line"><span class="cl"><span class="nx">sequenceDiagram</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Alice</span><span class="o">-&gt;&gt;</span><span class="nx">John</span><span class="p">:</span> <span class="nx">Hello</span> <span class="nx">John</span><span class="p">,</span> <span class="nx">how</span> <span class="nx">be</span> <span class="nx">ye</span><span class="err">?</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">loop</span> <span class="nx">Healthcheck</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">John</span><span class="o">-&gt;&gt;</span><span class="nx">John</span><span class="p">:</span> <span class="nx">Fight</span> <span class="nx">against</span> <span class="nx">hypochondria</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">end</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Avast</span> <span class="nx">right</span> <span class="nx">o'</span> <span class="nx">John</span><span class="p">:</span> <span class="nx">Rational</span> <span class="nx">thoughts</span><span class="p">!</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">John</span><span class="o">--&gt;&gt;</span><span class="nx">Alice</span><span class="p">:</span> <span class="nx">Great</span><span class="p">!</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">John</span><span class="o">-&gt;&gt;</span><span class="nx">Bob</span><span class="p">:</span> <span class="nx">How</span> <span class="nx">about</span> <span class="nx">ye</span><span class="err">?</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Bob</span><span class="o">--&gt;&gt;</span><span class="nx">John</span><span class="p">:</span> <span class="nx">Jolly</span> <span class="nx">bloody</span><span class="p">!</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+%%{init:{&#34;fontFamily&#34;:&#34;monospace&#34;, &#34;sequence&#34;:{&#34;showSequenceNumbers&#34;:true}}}%%
+sequenceDiagram
+    Alice-&gt;&gt;John: Hello John, how be ye?
+    loop Healthcheck
+        John-&gt;&gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts!
+    John--&gt;&gt;Alice: Great!
+    John-&gt;&gt;Bob: How about ye?
+    Bob--&gt;&gt;John: Jolly bloody!
+</div>
+<h3 id="class-diagram-with-codefence-syntax">Class Diagram wit' Codefence Rules</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="s">```mermaid
+</span></span></span><span class="line"><span class="cl"><span class="s">classDiagram
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal &lt;|-- Duck
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal &lt;|-- Fish
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal &lt;|-- Zebra
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal : +int age
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal : +Str'n gender
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal: +isMammal()
+</span></span></span><span class="line"><span class="cl"><span class="s">    Animal: +mate()
+</span></span></span><span class="line"><span class="cl"><span class="s">    class Duck{
+</span></span></span><span class="line"><span class="cl"><span class="s">      +Str'n beakColor
+</span></span></span><span class="line"><span class="cl"><span class="s">      +swim()
+</span></span></span><span class="line"><span class="cl"><span class="s">      +quack()
+</span></span></span><span class="line"><span class="cl"><span class="s">    }
+</span></span></span><span class="line"><span class="cl"><span class="s">    class Fish{
+</span></span></span><span class="line"><span class="cl"><span class="s">      -int sizeInFeet
+</span></span></span><span class="line"><span class="cl"><span class="s">      -canEat()
+</span></span></span><span class="line"><span class="cl"><span class="s">    }
+</span></span></span><span class="line"><span class="cl"><span class="s">    class Zebra{
+</span></span></span><span class="line"><span class="cl"><span class="s">      +bool is_wild
+</span></span></span><span class="line"><span class="cl"><span class="s">      +run()
+</span></span></span><span class="line"><span class="cl"><span class="s">    }
+</span></span></span><span class="line"><span class="cl"><span class="s">```</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">classDiagram
+    Animal &lt;|-- Duck
+    Animal &lt;|-- Fish
+    Animal &lt;|-- Zebra
+    Animal : &#43;int age
+    Animal : &#43;Str'n gender
+    Animal: &#43;isMammal()
+    Animal: &#43;mate()
+    class Duck{
+      &#43;Str'n beakColor
+      &#43;swim()
+      &#43;quack()
+    }
+    class Fish{
+      -int sizeInFeet
+      -canEat()
+    }
+    class Zebra{
+      &#43;bool is_wild
+      &#43;run()
+    }</div><h3 id="state-diagram-aligned-to-the-right">State Diagram Aligned t' th' Right</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="nx">align</span><span class="p">=</span><span class="s">&#34;right&#34;</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">stateDiagram</span><span class="o">-</span><span class="nx">v2</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">open</span><span class="p">:</span> <span class="nx">Open</span> <span class="nx">Door</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">closed</span><span class="p">:</span> <span class="nx">Closed</span> <span class="nx">Door</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">locked</span><span class="p">:</span> <span class="nx">Locked</span> <span class="nx">Door</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">open</span>   <span class="o">--</span><span class="p">&gt;</span> <span class="nx">closed</span><span class="p">:</span> <span class="nx">Close</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">closed</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">locked</span><span class="p">:</span> <span class="nx">Lock</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">locked</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">closed</span><span class="p">:</span> <span class="nx">Unlock</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">closed</span> <span class="o">--</span><span class="p">&gt;</span> <span class="nx">open</span><span class="p">:</span> <span class="nx">Open</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-right">
+stateDiagram-v2
+  open: Open Door
+  closed: Closed Door
+  locked: Locked Door
+  open   --&gt; closed: Close
+  closed --&gt; locked: Lock
+  locked --&gt; closed: Unlock
+  closed --&gt; open: Open
+</div>
+<h3 id="entity-relationship-model">Entity Relationship Model</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">erDiagram</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">CUSTOMER</span> <span class="p">}|..|{</span> <span class="nx">DELIVERY</span><span class="o">-</span><span class="nx">ADDRESS</span> <span class="p">:</span> <span class="nx">has</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">CUSTOMER</span> <span class="o">||--</span><span class="nx">o</span><span class="p">{</span> <span class="nx">ORDER</span> <span class="p">:</span> <span class="nx">places</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">CUSTOMER</span> <span class="o">||--</span><span class="nx">o</span><span class="p">{</span> <span class="nx">INVOICE</span> <span class="p">:</span> <span class="s">&#34;li'ble for&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">DELIVERY</span><span class="o">-</span><span class="nx">ADDRESS</span> <span class="o">||--</span><span class="nx">o</span><span class="p">{</span> <span class="nx">ORDER</span> <span class="p">:</span> <span class="nx">receives</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">INVOICE</span> <span class="o">||--</span><span class="p">|{</span> <span class="nx">ORDER</span> <span class="p">:</span> <span class="nx">covers</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">ORDER</span> <span class="o">||--</span><span class="p">|{</span> <span class="nx">ORDER</span><span class="o">-</span><span class="nx">ITEM</span> <span class="p">:</span> <span class="nx">includes</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">PRODUCT</span><span class="o">-</span><span class="nx">CATEGORY</span> <span class="o">||--</span><span class="p">|{</span> <span class="nx">PRODUCT</span> <span class="p">:</span> <span class="nx">contains</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">PRODUCT</span> <span class="o">||--</span><span class="nx">o</span><span class="p">{</span> <span class="nx">ORDER</span><span class="o">-</span><span class="nx">ITEM</span> <span class="p">:</span> <span class="s">&#34;ordered in&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+erDiagram
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER ||--o{ INVOICE : &#34;li'ble for&#34;
+    DELIVERY-ADDRESS ||--o{ ORDER : receives
+    INVOICE ||--|{ ORDER : covers
+    ORDER ||--|{ ORDER-ITEM : includes
+    PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+    PRODUCT ||--o{ ORDER-ITEM : &#34;ordered in&#34;
+</div>
+<h3 id="user-journey">User Journey</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">journey</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">title</span> <span class="nx">My</span> <span class="nx">work'n</span> <span class="nx">day</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">section</span> <span class="nx">Go</span> <span class="nx">t'</span> <span class="nx">work</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Make</span> <span class="nx">tea</span><span class="p">:</span> <span class="mi">5</span><span class="p">:</span> <span class="nx">Me</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Go</span> <span class="nx">upstairs</span><span class="p">:</span> <span class="mi">3</span><span class="p">:</span> <span class="nx">Me</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Do</span> <span class="nx">work</span><span class="p">:</span> <span class="mi">1</span><span class="p">:</span> <span class="nx">Me</span><span class="p">,</span> <span class="nx">Cat</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">section</span> <span class="nx">Go</span> <span class="nx">home</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Go</span> <span class="nx">downstairs</span><span class="p">:</span> <span class="mi">5</span><span class="p">:</span> <span class="nx">Me</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Sit</span> <span class="nx">down</span><span class="p">:</span> <span class="mi">3</span><span class="p">:</span> <span class="nx">Me</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+journey
+    title My work'n day
+    section Go t' work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 3: Me
+</div>
+<h3 id="gantt-chart">GANTT Chart</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">gantt</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">dateFormat</span>  <span class="nx">YYYY</span><span class="o">-</span><span class="nx">MM</span><span class="o">-</span><span class="nx">DD</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">title</span> <span class="nx">Add'n</span> <span class="nx">GANTT</span> <span class="nx">diagram</span> <span class="nx">functionality</span> <span class="nx">t'</span> <span class="nx">Merrrmaid</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">section</span> <span class="nx">A</span> <span class="nx">section</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Completed</span> <span class="nx">task</span>            <span class="p">:</span><span class="nx">done</span><span class="p">,</span>    <span class="nx">des1</span><span class="p">,</span> <span class="mi">2014</span><span class="o">-</span><span class="mo">01</span><span class="o">-</span><span class="mo">06</span><span class="p">,</span><span class="mi">2014</span><span class="o">-</span><span class="mo">01</span><span class="o">-</span><span class="mi">08</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Active</span> <span class="nx">task</span>               <span class="p">:</span><span class="nx">active</span><span class="p">,</span>  <span class="nx">des2</span><span class="p">,</span> <span class="mi">2014</span><span class="o">-</span><span class="mo">01</span><span class="o">-</span><span class="mi">09</span><span class="p">,</span> <span class="mi">3</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Future</span> <span class="nx">task</span>               <span class="p">:</span>         <span class="nx">des3</span><span class="p">,</span> <span class="nx">aft</span> <span class="nx">des2</span><span class="p">,</span> <span class="mi">5</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Future</span> <span class="nx">task2</span>              <span class="p">:</span>         <span class="nx">des4</span><span class="p">,</span> <span class="nx">aft</span> <span class="nx">des3</span><span class="p">,</span> <span class="mi">5</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">section</span> <span class="nx">Critical</span> <span class="nx">tasks</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Completed</span> <span class="nx">task</span> <span class="nx">'n</span> <span class="nx">th'</span> <span class="nx">critical</span> <span class="nx">line</span> <span class="p">:</span><span class="nx">crit</span><span class="p">,</span> <span class="nx">done</span><span class="p">,</span> <span class="mi">2014</span><span class="o">-</span><span class="mo">01</span><span class="o">-</span><span class="mo">06</span><span class="p">,</span><span class="mi">24</span><span class="nx">h</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Implement</span> <span class="nx">parser</span> <span class="nx">an'</span> <span class="nx">jison</span>          <span class="p">:</span><span class="nx">crit</span><span class="p">,</span> <span class="nx">done</span><span class="p">,</span> <span class="nx">aft</span> <span class="nx">des1</span><span class="p">,</span> <span class="mi">2</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Create</span> <span class="nx">tests</span> <span class="k">fer</span> <span class="nx">parser</span>             <span class="p">:</span><span class="nx">crit</span><span class="p">,</span> <span class="nx">active</span><span class="p">,</span> <span class="mi">3</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Future</span> <span class="nx">task</span> <span class="nx">'n</span> <span class="nx">critical</span> <span class="nx">line</span>        <span class="p">:</span><span class="nx">crit</span><span class="p">,</span> <span class="mi">5</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Create</span> <span class="nx">tests</span> <span class="k">fer</span> <span class="nx">renderer</span>           <span class="p">:</span><span class="mi">2</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Add</span> <span class="nx">t'</span> <span class="nx">Merrrmaid</span>                      <span class="p">:</span><span class="mi">1</span><span class="nx">d</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+gantt
+        dateFormat  YYYY-MM-DD
+        title Add'n GANTT diagram functionality t' Merrrmaid
+        section A section
+        Completed task            :done,    des1, 2014-01-06,2014-01-08
+        Active task               :active,  des2, 2014-01-09, 3d
+        Future task               :         des3, aft des2, 5d
+        Future task2              :         des4, aft des3, 5d
+        section Critical tasks
+        Completed task 'n th' critical line :crit, done, 2014-01-06,24h
+        Implement parser an' jison          :crit, done, aft des1, 2d
+        Create tests fer parser             :crit, active, 3d
+        Future task 'n critical line        :crit, 5d
+        Create tests fer renderer           :2d
+        Add t' Merrrmaid                      :1d
+</div>
+<h3 id="pie-chart">Pie Chart</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">pie</span> <span class="nx">title</span> <span class="nx">Pets</span> <span class="nx">adopted</span> <span class="nx">by</span> <span class="nx">volunteers</span>
+</span></span><span class="line"><span class="cl">    <span class="s">&#34;Dogs&#34;</span> <span class="p">:</span> <span class="mi">386</span>
+</span></span><span class="line"><span class="cl">    <span class="s">&#34;Cats&#34;</span> <span class="p">:</span> <span class="mi">85</span>
+</span></span><span class="line"><span class="cl">    <span class="s">&#34;Rats&#34;</span> <span class="p">:</span> <span class="mi">15</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+pie title Pets adopted by volunteers
+    &#34;Dogs&#34; : 386
+    &#34;Cats&#34; : 85
+    &#34;Rats&#34; : 15
+</div>
+<h3 id="requirement-diagram">Requirement Diagram</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">requirementDiagram</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nx">requirement</span> <span class="nx">test_req</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">id</span><span class="p">:</span> <span class="mi">1</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">text</span><span class="p">:</span> <span class="nx">th'</span> <span class="nx">test</span> <span class="nx">text</span><span class="p">.</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">risk</span><span class="p">:</span> <span class="nx">high</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">verifymethod</span><span class="p">:</span> <span class="nx">test</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nx">element</span> <span class="nx">test_entity</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">type</span><span class="p">:</span> <span class="nx">simulat'n</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nx">test_entity</span> <span class="o">-</span> <span class="nx">satisfies</span> <span class="o">-</span><span class="p">&gt;</span> <span class="nx">test_req</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+    requirementDiagram
+
+    requirement test_req {
+    id: 1
+    text: th' test text.
+    risk: high
+    verifymethod: test
+    }
+
+    element test_entity {
+    type: simulat'n
+    }
+
+    test_entity - satisfies -&gt; test_req
+</div>
+<h3 id="git-graph">Git Graph</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">gitGraph</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">branch</span> <span class="nx">develop</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">checkout</span> <span class="nx">develop</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">checkout</span> <span class="nx">main</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">merge</span> <span class="nx">develop</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">commit</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
+</div>
+<h3 id="c4-diagrams">C4 Diagrams</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">C4Context</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">title</span> <span class="nx">System</span> <span class="nx">Context</span> <span class="nx">diagram</span> <span class="k">fer</span> <span class="nx">Internet</span> <span class="nx">Bank'n</span> <span class="nx">System</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Enterprise_Boundary</span><span class="p">(</span><span class="nx">b0</span><span class="p">,</span> <span class="s">&#34;BankBoundary0&#34;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Person</span><span class="p">(</span><span class="nx">customerA</span><span class="p">,</span> <span class="s">&#34;Bank'n Customer A&#34;</span><span class="p">,</span> <span class="s">&#34;A customer o' th' bank, wit' personal bank accounts.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Person</span><span class="p">(</span><span class="nx">customerB</span><span class="p">,</span> <span class="s">&#34;Bank'n Customer B&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Person_Ext</span><span class="p">(</span><span class="nx">customerC</span><span class="p">,</span> <span class="s">&#34;Bank'n Customer C&#34;</span><span class="p">,</span> <span class="s">&#34;desc&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">Person</span><span class="p">(</span><span class="nx">customerD</span><span class="p">,</span> <span class="s">&#34;Bank'n Customer D&#34;</span><span class="p">,</span> <span class="s">&#34;A customer o' th' bank, &lt;br/&gt; wit' personal bank accounts.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">System</span><span class="p">(</span><span class="nx">SystemAA</span><span class="p">,</span> <span class="s">&#34;Internet Bank'n System&#34;</span><span class="p">,</span> <span class="s">&#34;Allows customers t' view informat'n about their bank accounts, an' make payments.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">Enterprise_Boundary</span><span class="p">(</span><span class="nx">b1</span><span class="p">,</span> <span class="s">&#34;BankBoundary&#34;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">        <span class="nf">SystemDb_Ext</span><span class="p">(</span><span class="nx">SystemE</span><span class="p">,</span> <span class="s">&#34;Mainframe Bank'n System&#34;</span><span class="p">,</span> <span class="s">&#34;Stores all o' th' core bank'n informat'n about customers, accounts, transact'ns, etc.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">        <span class="nf">System_Boundary</span><span class="p">(</span><span class="nx">b2</span><span class="p">,</span> <span class="s">&#34;BankBoundary2&#34;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">System</span><span class="p">(</span><span class="nx">SystemA</span><span class="p">,</span> <span class="s">&#34;Bank'n System A&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">System</span><span class="p">(</span><span class="nx">SystemB</span><span class="p">,</span> <span class="s">&#34;Bank'n System B&#34;</span><span class="p">,</span> <span class="s">&#34;A system o' th' bank, wit' personal bank accounts. next line.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">        <span class="nf">System_Ext</span><span class="p">(</span><span class="nx">SystemC</span><span class="p">,</span> <span class="s">&#34;E-mail system&#34;</span><span class="p">,</span> <span class="s">&#34;The internal Microsoft Exchange e-mail system.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">SystemDb</span><span class="p">(</span><span class="nx">SystemD</span><span class="p">,</span> <span class="s">&#34;Bank'n System D Database&#34;</span><span class="p">,</span> <span class="s">&#34;A system o' th' bank, wit' personal bank accounts.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">        <span class="nf">Boundary</span><span class="p">(</span><span class="nx">b3</span><span class="p">,</span> <span class="s">&#34;BankBoundary3&#34;</span><span class="p">,</span> <span class="s">&#34;boundary&#34;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">SystemQueue</span><span class="p">(</span><span class="nx">SystemF</span><span class="p">,</span> <span class="s">&#34;Bank'n System F Queue&#34;</span><span class="p">,</span> <span class="s">&#34;A system o' th' bank.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">SystemQueue_Ext</span><span class="p">(</span><span class="nx">SystemG</span><span class="p">,</span> <span class="s">&#34;Bank'n System G Queue&#34;</span><span class="p">,</span> <span class="s">&#34;A system o' th' bank, wit' personal bank accounts.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">BiRel</span><span class="p">(</span><span class="nx">customerA</span><span class="p">,</span> <span class="nx">SystemAA</span><span class="p">,</span> <span class="s">&#34;Uses&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">BiRel</span><span class="p">(</span><span class="nx">SystemAA</span><span class="p">,</span> <span class="nx">SystemE</span><span class="p">,</span> <span class="s">&#34;Uses&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Rel</span><span class="p">(</span><span class="nx">SystemAA</span><span class="p">,</span> <span class="nx">SystemC</span><span class="p">,</span> <span class="s">&#34;Sends e-mails&#34;</span><span class="p">,</span> <span class="s">&#34;SMTP&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">Rel</span><span class="p">(</span><span class="nx">SystemC</span><span class="p">,</span> <span class="nx">customerA</span><span class="p">,</span> <span class="s">&#34;Sends e-mails to&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateElementStyle</span><span class="p">(</span><span class="nx">customerA</span><span class="p">,</span> <span class="err">$</span><span class="nx">fontColor</span><span class="p">=</span><span class="s">&#34;red&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">bgColor</span><span class="p">=</span><span class="s">&#34;grey&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">borderColor</span><span class="p">=</span><span class="s">&#34;red&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateRelStyle</span><span class="p">(</span><span class="nx">customerA</span><span class="p">,</span> <span class="nx">SystemAA</span><span class="p">,</span> <span class="err">$</span><span class="nx">textColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">lineColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetX</span><span class="p">=</span><span class="s">&#34;5&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateRelStyle</span><span class="p">(</span><span class="nx">SystemAA</span><span class="p">,</span> <span class="nx">SystemE</span><span class="p">,</span> <span class="err">$</span><span class="nx">textColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">lineColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetY</span><span class="p">=</span><span class="s">&#34;-10&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateRelStyle</span><span class="p">(</span><span class="nx">SystemAA</span><span class="p">,</span> <span class="nx">SystemC</span><span class="p">,</span> <span class="err">$</span><span class="nx">textColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">lineColor</span><span class="p">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetY</span><span class="p">=</span><span class="s">&#34;-40&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetX</span><span class="p">=</span><span class="s">&#34;-50&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateRelStyle</span><span class="p">(</span><span class="nx">SystemC</span><span class="p">,</span> <span class="nx">customerA</span><span class="p">,</span> <span class="err">$</span><span class="nx">textColor</span><span class="p">=</span><span class="s">&#34;red&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">lineColor</span><span class="p">=</span><span class="s">&#34;red&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetX</span><span class="p">=</span><span class="s">&#34;-50&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">offsetY</span><span class="p">=</span><span class="s">&#34;20&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">UpdateLayoutConfig</span><span class="p">(</span><span class="err">$</span><span class="nx">c4ShapeInRow</span><span class="p">=</span><span class="s">&#34;3&#34;</span><span class="p">,</span> <span class="err">$</span><span class="nx">c4BoundaryInRow</span><span class="p">=</span><span class="s">&#34;1&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+C4Context
+    title System Context diagram fer Internet Bank'n System
+    Enterprise_Boundary(b0, &#34;BankBoundary0&#34;) {
+    Person(customerA, &#34;Bank'n Customer A&#34;, &#34;A customer o' th' bank, wit' personal bank accounts.&#34;)
+    Person(customerB, &#34;Bank'n Customer B&#34;)
+    Person_Ext(customerC, &#34;Bank'n Customer C&#34;, &#34;desc&#34;)
+
+    Person(customerD, &#34;Bank'n Customer D&#34;, &#34;A customer o' th' bank, &lt;br/&gt; wit' personal bank accounts.&#34;)
+
+    System(SystemAA, &#34;Internet Bank'n System&#34;, &#34;Allows customers t' view informat'n about their bank accounts, an' make payments.&#34;)
+
+    Enterprise_Boundary(b1, &#34;BankBoundary&#34;) {
+
+        SystemDb_Ext(SystemE, &#34;Mainframe Bank'n System&#34;, &#34;Stores all o' th' core bank'n informat'n about customers, accounts, transact'ns, etc.&#34;)
+
+        System_Boundary(b2, &#34;BankBoundary2&#34;) {
+        System(SystemA, &#34;Bank'n System A&#34;)
+        System(SystemB, &#34;Bank'n System B&#34;, &#34;A system o' th' bank, wit' personal bank accounts. next line.&#34;)
+        }
+
+        System_Ext(SystemC, &#34;E-mail system&#34;, &#34;The internal Microsoft Exchange e-mail system.&#34;)
+        SystemDb(SystemD, &#34;Bank'n System D Database&#34;, &#34;A system o' th' bank, wit' personal bank accounts.&#34;)
+
+        Boundary(b3, &#34;BankBoundary3&#34;, &#34;boundary&#34;) {
+        SystemQueue(SystemF, &#34;Bank'n System F Queue&#34;, &#34;A system o' th' bank.&#34;)
+        SystemQueue_Ext(SystemG, &#34;Bank'n System G Queue&#34;, &#34;A system o' th' bank, wit' personal bank accounts.&#34;)
+        }
+    }
+    }
+
+    BiRel(customerA, SystemAA, &#34;Uses&#34;)
+    BiRel(SystemAA, SystemE, &#34;Uses&#34;)
+    Rel(SystemAA, SystemC, &#34;Sends e-mails&#34;, &#34;SMTP&#34;)
+    Rel(SystemC, customerA, &#34;Sends e-mails to&#34;)
+
+    UpdateElementStyle(customerA, $fontColor=&#34;red&#34;, $bgColor=&#34;grey&#34;, $borderColor=&#34;red&#34;)
+    UpdateRelStyle(customerA, SystemAA, $textColor=&#34;blue&#34;, $lineColor=&#34;blue&#34;, $offsetX=&#34;5&#34;)
+    UpdateRelStyle(SystemAA, SystemE, $textColor=&#34;blue&#34;, $lineColor=&#34;blue&#34;, $offsetY=&#34;-10&#34;)
+    UpdateRelStyle(SystemAA, SystemC, $textColor=&#34;blue&#34;, $lineColor=&#34;blue&#34;, $offsetY=&#34;-40&#34;, $offsetX=&#34;-50&#34;)
+    UpdateRelStyle(SystemC, customerA, $textColor=&#34;red&#34;, $lineColor=&#34;red&#34;, $offsetX=&#34;-50&#34;, $offsetY=&#34;20&#34;)
+
+    UpdateLayoutConfig($c4ShapeInRow=&#34;3&#34;, $c4BoundaryInRow=&#34;1&#34;)
+</div>
+<h3 id="mindmap">Mindmap</h3>
+
+<div class="box notices cstyle note">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Avast</div>
+  <div class="box-content">
+<p>As o' Merrrmaid version 9.2.2 this diagram type be not included 'n th' official distribut'n an' will not be use'ble 'n this theme.</p>
+  </div>
+</div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">mindmap</span>
+</span></span><span class="line"><span class="cl">  <span class="nf">root</span><span class="p">((</span><span class="nx">mindmap</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Origins</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Long</span> <span class="nx">history</span>
+</span></span><span class="line"><span class="cl">      <span class="p">::</span><span class="nf">ay'con</span><span class="p">(</span><span class="nx">fa</span> <span class="nx">fa</span><span class="o">-</span><span class="nx">book</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Popularisat'n</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">British</span> <span class="nx">popular</span> <span class="nx">psychology</span> <span class="nx">author</span> <span class="nx">Tony</span> <span class="nx">Buzan</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Research</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">On</span> <span class="nx">effectivness</span><span class="p">&lt;</span><span class="nx">br</span><span class="o">/</span><span class="p">&gt;</span><span class="nx">an'</span> <span class="nx">features</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">On</span> <span class="nx">Automatic</span> <span class="nx">creat'n</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">Uses</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">Creative</span> <span class="nx">techniques</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">Strategic</span> <span class="nx">plann'n</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">Argument</span> <span class="nx">mapp'n</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">Tools</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Pen</span> <span class="nx">an'</span> <span class="nx">paper</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">Merrrmaid</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="o">/</span><span class="nx">mermaid</span> <span class="p">&gt;}}</span>
+</span></span></code></pre></div>
+<div class="mermaid align-center">
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisat'n
+        British popular psychology author Tony Buzan
+    Research
+      On effectivness&lt;br/&gt;and features
+      On Automatic creat'n
+        Uses
+            Creative techniques
+            Strategic plann'n
+            Argument mapp'n
+    Tools
+      Pen an' paper
+      Merrrmaid
+</div>
+
+
+            <footer class="footline">
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    <script src="../../../js/clipboard.min.js?1672016938" defer></script>
+    <script src="../../../js/perfect-scrollbar.min.js?1672016938" defer></script>
+    <script src="../../../js/featherlight.min.js?1672016938" defer></script>
+    <script src="../../../js/theme.js?1672016938" defer></script>
+  </body>
+</html>

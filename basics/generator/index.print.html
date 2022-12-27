@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.109.0">
+    <meta name="generator" content="Relearn 5.9.1+tip">
+    <meta name="description" content="Documentation for Hugo Relearn Theme">
+    <meta name="author" content="Sören Weber">
+    <title>Stylesheet generator :: Hugo Relearn Theme</title>
+    <link href="https://McShelby.github.io/hugo-theme-relearn/basics/generator/index.html" rel="canonical" type="text/html" title="Stylesheet generator :: Hugo Relearn Theme">
+    <link href="../../basics/generator/index.xml" rel="alternate" type="application/rss+xml" title="Stylesheet generator :: Hugo Relearn Theme">
+    <link href="../../images/logo.svg?1672016934" rel="icon" type="image/svg+xml">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="../../css/fontawesome-all.min.css?1672016935" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fontawesome-all.min.css?1672016935" rel="stylesheet"></noscript>
+    <link href="../../css/featherlight.min.css?1672016935" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/featherlight.min.css?1672016935" rel="stylesheet"></noscript>
+    <link href="../../css/auto-complete.css?1672016935" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/auto-complete.css?1672016935" rel="stylesheet"></noscript>
+    <link href="../../css/perfect-scrollbar.min.css?1672016935" rel="stylesheet">
+    <link href="../../css/nucleus.css?1672016935" rel="stylesheet">
+    <link href="../../css/fonts.css?1672016935" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css?1672016935" rel="stylesheet"></noscript>
+    <link href="../../css/theme.css?1672016935" rel="stylesheet">
+    <link href="../../css/theme-relearn-light.css?1672016935" rel="stylesheet" id="variant-style">
+    <link href="../../css/ie.css?1672016935" rel="stylesheet">
+    <link href="../../css/variant.css?1672016935" rel="stylesheet">
+    <link href="../../css/print.css?1672016935" rel="stylesheet" media="print">
+    <link href="../../css/format-print.css?1672016935" rel="stylesheet">
+    <script src="../../js/url.js?1672016935"></script>
+    <script src="../../js/variant.js?1672016935"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_js_url="../../index.search.js";
+      var root_url="../../";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='https:\/\/McShelby.github.io\/hugo-theme-relearn/';
+      window.variants && variants.init( [ 'relearn-light', 'relearn-dark', 'learn', 'neon', 'blue', 'green', 'red' ] );
+    </script>
+    <script src="../../js/jquery.min.js?1672016935" defer></script>
+    <style>
+      #body img.bg-white {
+        background-color: white;
+      }
+    </style>
+  </head>
+  <body class="mobile-support print disableInlineCopyToClipboard" data-url="../../basics/generator/index.html">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable" dir="ltr">
+        <div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../index.html"><span itemprop="name">Hugo Relearn Theme</span></a><meta itemprop="position" content="1"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../basics/index.html"><span itemprop="name">Basics</span></a><meta itemprop="position" content="2"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Stylesheet generator</span><meta itemprop="position" content="3"></li>
+            </ol>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
+          <article class="default">
+<h1 id="stylesheet-generator">Stylesheet generator</h1>
+
+<p>This interactive tool may help you to generate your own color variant stylesheet.</p>
+<p>To get started, first select a color variant from the variant switch that fits you best as a starting point.</p>
+<p>The graph is interactive and reflect the current colors. You can click on any of the colored boxes to adjust the respective color. The graph and the page will update accordingly.</p>
+<p>The arrowed lines reflects how colors are inherited thru different parts of the theme if the descendent isn&rsquo;t overwritten. If you want to delete a color and let it inherit from its parent, just delete the value from the input field.</p>
+<p>To better understand this select the <code>neon</code> variant and modify the different heading colors. There, colors for the heading <code>h2</code>, <code>h3</code> and <code>h4</code> are explicitly set. <code>h5</code> is not set and inherits its value from <code>h4</code>. <code>h6</code> is also not set and inherits its value from <code>h5</code>.</p>
+<p>Once you&rsquo;ve changed a color, the variant switch will show a &ldquo;My custom variant&rdquo; entry and your changes are stored in the browser. You can change pages and even close the browser without losing your changes.</p>
+<p>Once you are satisfied, you can download the new variants file and copy it into your site&rsquo;s <code>static/css</code> directory. Afterwards you have to adjust the <code>themeVariant</code> parameter in your <code>config.toml</code> to your chosen file name.</p>
+<p>Eg. if your new variants file is named <code>theme-my-custom-variant.css</code>, you have to set <code>themeVariant='my-custom-variant'</code> to use it.</p>
+
+<div class="box notices cstyle note">
+  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Note</div>
+  <div class="box-content">
+<p>This only works in modern browsers.</p>
+  </div>
+</div>
+<h2 id="variant-generator">Variant generator</h2>
+<p>
+<span class="btn cstyle secondary">
+  <button onclick="window.variants&amp;&amp;variants.getStylesheet();this.blur();" type="button">
+    <i class="fa-fw fas fa-download"></i>
+    Download variant
+  </button>
+</span>
+
+<span class="btn cstyle warning">
+  <button onclick="window.variants&amp;&amp;variants.resetVariant();this.blur();" type="button">
+    <i class="fa-fw fas fa-trash"></i>
+    Reset variant
+  </button>
+</span></p>
+<div id="vargenerator" class="mermaid" style="background-color: var(--INTERNAL-MAIN-TEXT-color);">Graph</div>
+<p>
+<span class="btn cstyle secondary">
+  <button onclick="window.variants&amp;&amp;variants.getStylesheet();this.blur();" type="button">
+    <i class="fa-fw fas fa-download"></i>
+    Download variant
+  </button>
+</span>
+
+<span class="btn cstyle warning">
+  <button onclick="window.variants&amp;&amp;variants.resetVariant();this.blur();" type="button">
+    <i class="fa-fw fas fa-trash"></i>
+    Reset variant
+  </button>
+</span></p>
+<script>
+window.variants && variants.generator( '#vargenerator' );
+</script>
+
+            <footer class="footline">
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    <script src="../../js/clipboard.min.js?1672016936" defer></script>
+    <script src="../../js/perfect-scrollbar.min.js?1672016936" defer></script>
+    <script src="../../js/featherlight.min.js?1672016936" defer></script>
+    <script src="../../js/jquery.svg.pan.zoom.js?1672016936" defer></script>
+    <script src="../../js/mermaid.min.js?1672016936" defer></script>
+    <script>
+      window.themeUseMermaid = JSON.parse("{ \"securityLevel\": \"loose\" }");
+    </script>
+    <script src="../../js/theme.js?1672016936" defer></script>
+  </body>
+</html>
