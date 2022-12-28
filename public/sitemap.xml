@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/basics/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/basics/first-content/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/post/first-content/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/post/hello_hugo/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/post/index.html</loc>
+    <lastmod>2022-12-27T14:40:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://swhl.github.io/AI-Competition-Collections/tags/index.html</loc>
+  </url>
+</urlset>
