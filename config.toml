@@ -6,15 +6,42 @@ theme = "hugo-theme-relearn"
 
 # For search functionality
 [outputs]
-home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+  home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE", 'PRINT']
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
 
 [module]
   [module.hugoVersion]
     min = "0.95.0"
 
+
 [params]
+  # 页面右上角显示编辑的按钮
+  editURL = "https://github.com/SWHL/AI-Competition-Collections"
+
+  # meta
+  description = "AI Competition Collections"
+  author = "SWHL"
+
+  # 是否显示上一篇下一篇
+  disableNextPrev = false
+
+  # 浏览器网页栏显示标题之间分割符
+  titleSeparator = "-"
+
+  # 左侧目录是否默认展开
+  alwaysopen = true
   additionalContentLanguage = [ "en", "zh" ]
-  collapsibleMenu = false
+
+  # 新界面打开超链接
+  externalLinkTarget = "_blank"
+
+  # 设置不同主题
+  themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+
+  # Clear History 是否右侧勾选已经访问过的页面
+  showVisitedLinks = true
+  disableBreadcrumb = false
 
 [mediaTypes]
   [mediaTypes."text/javascript"]
@@ -44,3 +71,21 @@ home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
     mediaType = 'text/html'
     permalinkable = false
     noUgly = true
+
+
+# 用来设置界面MORE的部分
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/SWHL/AI-Competition-Collections"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "more/credits/"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+url = "tags/"
+weight = 40

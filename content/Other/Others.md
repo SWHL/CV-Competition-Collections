@@ -2,6 +2,9 @@
 title: "Others"
 date: 2022-12-27T14:40:39+08:00
 draft: false
+weght: 4
+LastModifierDisplayName: "SWHL"
+LastModifierEmail: "liekkaskono@163.com"
 ---
 
 **(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人)**
