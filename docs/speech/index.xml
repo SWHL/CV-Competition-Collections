@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speeches on AI Competition Collections</title>
+    <link>https://swhl.github.io/AI-Competition-Collections/speech/index.html</link>
+    <description>Recent content in Speeches on AI Competition Collections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 14:40:39 +0800</lastBuildDate><atom:link href="https://swhl.github.io/AI-Competition-Collections/speech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>语音赛事经验贴</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/speech/speech/index.html</link>
+      <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
+      <guid>https://swhl.github.io/AI-Competition-Collections/speech/speech/index.html</guid>
+      <description> 从他人比赛经验中，总是可以学到很多东西
+【2021-12-07】ICASSP2021 M2VoC挑战赛报告会：高分队伍及评审分享回顾（附PPT） 【2021-12-07】DCASE2020大赛的声学场景分类任务各个优秀参赛方案！ 【2021-12-07】10小时训练数据打造多语种语音识别新高度 【2021-12-07】【赛事分享】 智源家庭场景中文语音数据集挑战赛-基于KALDI的语音识别基线 【2021-12-07】新网杯top1方案：手把手构建中文语音合成模型！ </description>
+    </item>
+  </channel>
+</rss>

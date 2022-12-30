@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on AI Competition Collections</title>
+    <link>https://swhl.github.io/AI-Competition-Collections/interview/index.html</link>
+    <description>Recent content in Interviews on AI Competition Collections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 14:40:39 +0800</lastBuildDate><atom:link href="https://swhl.github.io/AI-Competition-Collections/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>比赛团队访谈</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/interview/interview/index.html</link>
+      <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
+      <guid>https://swhl.github.io/AI-Competition-Collections/interview/interview/index.html</guid>
+      <description> 从他人比赛经验中，总是可以学到很多东西
+【2022-12-09】AI竞赛经验 | 互联网＋大赛经验分享by刘玉洁 【2022-12-09】AI竞赛经验 | “青创北京”2022年 “挑战杯”首都大学生创业计划竞赛分享by刘寿宇 【2022-12-09】AI竞赛经验 | 第二十二届中国机器人及人工智能大赛分享by符传世 【2022-12-01】AI竞赛经验 | 蓝桥杯大赛经验分享by崔浩楠 【2022-12-01】AI竞赛经验丨全国大学生电子设计竞赛经验分享by游顺策 【2022-10-06】获奖团队访谈录|“AI+视觉特征编码”赛道优胜奖团队 【2022-10-02】获奖团队访谈录|“AI+无线通信”赛道三等奖团队 【2022-09-30】获奖团队访谈录|“AI+视觉特征编码”赛道二等奖团队 【2022-09-28】Kaggle 顶级大师成长笔记 【2022-09-16】冠军战队教你如何在比赛中获胜 【2022-08-10】冠军团队访谈录|第三届全国人工智能大赛 </description>
+    </item>
+  </channel>
+</rss>

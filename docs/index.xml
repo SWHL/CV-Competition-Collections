@@ -8,17 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Dec 2022 14:40:39 +0800</lastBuildDate><atom:link href="https://swhl.github.io/AI-Competition-Collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basics</title>
-      <link>https://swhl.github.io/AI-Competition-Collections/basics/index.html</link>
+      <title>CVs</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/cv/index.html</link>
       <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
-      <guid>https://swhl.github.io/AI-Competition-Collections/basics/index.html</guid>
-      <description>Lorem Ipsum.</description>
+      <guid>https://swhl.github.io/AI-Competition-Collections/cv/index.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>Posts</title>
-      <link>https://swhl.github.io/AI-Competition-Collections/post/index.html</link>
+      <title>Interviews</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/interview/index.html</link>
       <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
-      <guid>https://swhl.github.io/AI-Competition-Collections/post/index.html</guid>
+      <guid>https://swhl.github.io/AI-Competition-Collections/interview/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLPs</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/nlp/index.html</link>
+      <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
+      <guid>https://swhl.github.io/AI-Competition-Collections/nlp/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Others</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/other/index.html</link>
+      <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
+      <guid>https://swhl.github.io/AI-Competition-Collections/other/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speeches</title>
+      <link>https://swhl.github.io/AI-Competition-Collections/speech/index.html</link>
+      <pubDate>Tue, 27 Dec 2022 14:40:39 +0800</pubDate>
+      <guid>https://swhl.github.io/AI-Competition-Collections/speech/index.html</guid>
       <description></description>
     </item>
   </channel>
