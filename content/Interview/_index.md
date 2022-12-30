@@ -1,8 +1,9 @@
 ---
 title: "比赛团队访谈"
+menuTitle: "Interview"
 date: 2022-12-27T14:40:39+08:00
 draft: false
-weght: 1
+weight: 5
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---

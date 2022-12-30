@@ -17,7 +17,7 @@ theme = "hugo-theme-relearn"
 
 [params]
   # 页面右上角显示编辑的按钮
-  editURL = "https://github.com/SWHL/AI-Competition-Collections"
+  editURL = "https://github.com/SWHL/AI-Competition-Collections/edit/main/"
 
   # meta
   description = "AI Competition Collections"
@@ -29,8 +29,12 @@ theme = "hugo-theme-relearn"
   # 浏览器网页栏显示标题之间分割符
   titleSeparator = "-"
 
+  # 排序sections
+  ordersectionsby = "weight"
+
   # 左侧目录是否默认展开
-  alwaysopen = true
+  alwaysopen = false
+
   additionalContentLanguage = [ "en", "zh" ]
 
   # 新界面打开超链接
@@ -41,6 +45,10 @@ theme = "hugo-theme-relearn"
 
   # Clear History 是否右侧勾选已经访问过的页面
   showVisitedLinks = true
+
+  # 左侧目录是否可以折叠
+  collapsibleMenu = true
+
   disableBreadcrumb = false
 
 [mediaTypes]

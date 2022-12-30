@@ -10,3 +10,9 @@
 - `.nojekyll`: 用来避免Jekyll起作用，因为这个主题是用hugo来编译的，所以要避免Jekyll起作用
 - `docs`： 用来放部署的网站静态文件
 - 左下角Star设置在`themes/hugo-theme-relearn/layouts/partials/menu-footer.html`来自定义
+- `weight`: 值越小，越靠上
+- title是页面显示，menuTitle是左侧目录显示
+    ```text
+    title: "计算机视觉比赛经验贴"
+    menuTitle: "CV"
+    ```

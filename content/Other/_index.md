@@ -1,8 +1,9 @@
 ---
 title: "Others"
+menuTitle: "Others"
 date: 2022-12-27T14:40:39+08:00
 draft: false
-weght: 4
+weight: 4
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
