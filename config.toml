@@ -1,0 +1,99 @@
+baseURL = 'https://swhl.github.io/AI-Competition-Collections/'
+languageCode = 'en-us'
+title = 'AI Competition Collections'
+
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+  home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE", 'PRINT']
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+
+[module]
+  [module.hugoVersion]
+    min = "0.95.0"
+
+
+[params]
+  # 页面右上角显示编辑的按钮
+  editURL = "https://github.com/SWHL/AI-Competition-Collections/edit/main/"
+
+  # meta
+  description = "AI Competition Collections"
+  author = "SWHL"
+
+  # 是否显示上一篇下一篇
+  disableNextPrev = false
+
+  # 浏览器网页栏显示标题之间分割符
+  titleSeparator = "-"
+
+  # 排序sections
+  ordersectionsby = "weight"
+
+  # 左侧目录是否默认展开
+  alwaysopen = false
+
+  additionalContentLanguage = [ "en", "zh" ]
+
+  # 新界面打开超链接
+  externalLinkTarget = "_blank"
+
+  # 设置不同主题
+  themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+
+  # Clear History 是否右侧勾选已经访问过的页面
+  showVisitedLinks = true
+
+  # 左侧目录是否可以折叠
+  collapsibleMenu = true
+
+  disableBreadcrumb = false
+
+[mediaTypes]
+  [mediaTypes."text/javascript"]
+    suffixes = ["js"]
+
+[outputFormats]
+  [outputFormats.PRINT]
+    name= "PRINT"
+    baseName = "index.print"
+    isHTML = true
+    mediaType = 'text/html'
+    permalinkable = false
+    noUgly = true
+
+  [outputFormats.SEARCH]
+    name= "SEARCH"
+    baseName = "index.search"
+    isPlainText = true
+    mediaType = 'text/javascript'
+    permalinkable = false
+    noUgly = true
+
+  [outputFormats.SERCHPAGE]
+    name= "SEARCHPAGE"
+    baseName = "search"
+    isHTML = true
+    mediaType = 'text/html'
+    permalinkable = false
+    noUgly = true
+
+
+# 用来设置界面MORE的部分
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/SWHL/AI-Competition-Collections"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "more/credits/"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+url = "tags/"
+weight = 40

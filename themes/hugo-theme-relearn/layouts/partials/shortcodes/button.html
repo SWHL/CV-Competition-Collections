@@ -1,0 +1,54 @@
+{{- $context := .context }}
+{{- $content := .content }}
+{{- $href := (trim .href " ") | default "" }}
+{{- $style := .style | default "transparent" }}
+{{- $target := .target | default "" }}
+{{- $type := .type | default "" }}
+{{- $isButton := false }}
+{{- if or (not $href) (strings.HasPrefix $href "javascript:") }}
+  {{- $isButton = true }}
+  {{- $href = substr $href (len "javascript:") }}
+  {{- if not $type }}
+    {{- $type = "button" }}
+  {{- end }}
+{{- else if and (eq (len $target) 0) (or (strings.HasPrefix $href "http://") (strings.HasPrefix $href "https://") ) }}
+  {{- $target = "_blank" }}
+  {{- if isset $context.Site.Params "externallinktarget" }}
+    {{- $target = $context.Site.Params.externalLinkTarget }}
+  {{- end }}
+{{- end }}
+{{- $title := .title | default ($content) | default ($style | T) }}
+{{- $title = trim $title " " }}
+{{- $icon := .icon | default "" }}
+{{- if and (not $icon) (eq (len $icon) 0) }}
+  {{- if eq $style "info" }}{{ $icon = default "info-circle" }}{{ end }}
+  {{- if eq $style "warning" }}{{ $icon = default "exclamation-triangle" }}{{ end }}
+  {{- if eq $style "note" }}{{ $icon = default "exclamation-circle" }}{{ end }}
+  {{- if eq $style "tip" }}{{ $icon = default "lightbulb" }}{{ end }}
+{{- end }}
+{{- $icon = trim $icon " " }}
+{{- if and $icon (not (findRE ".*?\\bfa-\\w.*?" $icon)) }}
+  {{- $icon = printf "fa-fw fas fa-%s" $icon }}
+{{- end }}
+{{- $iconposition := .iconposition | default "left" }}
+{{- with $context }}
+<span class="btn cstyle {{ $style }}">
+  {{- if $isButton }}
+  <button{{ if $href }} onclick="{{ $href | safeJS }}"{{ end }}{{ if gt (len $type) 0 }} type="{{ $type }}"{{ end }}>
+  {{- else }}
+  <a{{ if $href }} href="{{ $href }}"{{ if gt (len $target) 0 }} target="{{ $target }}"{{ end }}{{ end }}>
+  {{- end }}
+    {{- if and $icon (eq $iconposition "left") }}
+    <i class="{{ $icon }}"></i>
+    {{- end }}
+    {{ $title }}
+    {{- if and $icon (eq $iconposition "right") }}
+    <i class="{{ $icon }}"></i>
+    {{- end }}
+  {{- if $isButton }}
+  </button>
+  {{- else }}
+  </a>
+  {{- end }}
+</span>
+{{- end }}
