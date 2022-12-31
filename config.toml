@@ -82,18 +82,18 @@ theme = "hugo-theme-relearn"
 
 
 # 用来设置界面MORE的部分
-[[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/SWHL/AI-Competition-Collections"
-weight = 10
+# [[menu.shortcuts]]
+# name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+# identifier = "ds"
+# url = "https://github.com/SWHL/AI-Competition-Collections"
+# weight = 10
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "more/credits/"
-weight = 30
+# [[menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+# url = "more/credits/"
+# weight = 30
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-tags'></i> Tags"
-url = "tags/"
-weight = 40
+# [[menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-tags'></i> Tags"
+# url = "tags/"
+# weight = 40

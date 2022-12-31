@@ -16,6 +16,7 @@
     title: "计算机视觉比赛经验贴"
     menuTitle: "CV"
     ```
+- 更改左上角logo，文件：`themes/hugo-theme-relearn/layouts/partials/logo.html`
 
 #### 分支说明
 - `main`: 用来作为主要分支，更新从这里开始
