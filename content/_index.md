@@ -1,6 +1,6 @@
 ---
 archetype: "home"
-title: "AI Competition Collections"
+title: "AI比赛经验帖子集锦"
 ---
 
 {{% children sort="weight" %}}
