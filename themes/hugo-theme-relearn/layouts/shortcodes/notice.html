@@ -1,8 +1,0 @@
-{{- $_hugo_config := `{ "version": 1 }` }}
-{{- partial "shortcodes/notice.html" (dict
-  "context" .
-  "content" .Inner
-  "icon"    (.Get "icon" | default (.Get 2))
-  "style"   (.Get "style" | default (.Get 0))
-  "title"   (.Get "title" | default (.Get 1))
-) }}
