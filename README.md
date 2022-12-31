@@ -16,3 +16,13 @@
     title: "计算机视觉比赛经验贴"
     menuTitle: "CV"
     ```
+
+#### 分支说明
+- `main`: 用来作为主要分支，更新从这里开始
+- `hugo_source`: 用来放编译网站的必要文件，当`main`中有更新时，会自动同步更新到这里，这里会自动编译部署到`gh-pages`分支
+- `gh-pages`: 部署的网站源码，Github Pages就是以这个部署的。
+- 框架图如下：
+    ```mermaid
+    flowchart LR
+        A(main) --同步更新--> B(hugo_source) --自动编译部署--> C(gh-pages) --CI--> D(Site)
+    ```
