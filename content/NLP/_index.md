@@ -7,14 +7,15 @@ weight: 2
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
+> 从他人比赛经验中，总是可以学到很多东西
+
 {{% badge style="info" icon=" " title=" " %}}情感识别{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}文本分类{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}文本提取{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}机器翻译{{% /badge %}}
 
-> 从他人比赛经验中，总是可以学到很多东西
-
 ---
+
 - [【2022-12-03】Kaggle Feedback Prize冠军方案分享](https://mp.weixin.qq.com/s/boWx1P9HxKsxdgZLNp7DBw)
 - [【2022-12-01】文本分类微调技巧实战2.0](http://mp.weixin.qq.com/s?__biz=MzAxOTU5NTU4MQ==&mid=2247490397&idx=1&sn=c4594d3d6926b21ca94f1aae4c30cc5d&chksm=9bc5f30facb27a19041dda0a86d75ea0a0a0130835310208ffc9d9b1b081259127fd42452edc#rd)
 - [【2022-11-30】三等奖方案|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=4&sn=35e3484815b5f038bdef53ba322770b1&chksm=eca4df47dbd35651f1ba90edf161f7c132d2a76fa1698512da833e313e4699c16ae2d6457233#rd)
@@ -45,5 +46,6 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2021-12-07】【比赛】CCL“中国法研杯”相似案例匹配评测竞赛 - TOP队伍攻略分享](https://mp.weixin.qq.com/s?src=11&timestamp=1638859300&ver=3481&signature=0Gbq9zrr-SROJmhft9yfIvD8kp3CGFX*zPCoQeUJ7CLS0lT113McuLOuIRlnQZufZXC0BBN7G-pGWLx1iGhs-QSUdDChoif7auA0t7LC-HAsPfN0Cdf7B6geq*mUI*Vz&new=1)
 - [【2021-12-07】搜狐文本匹配算法比赛top2解读](https://blog.csdn.net/qq_16949707/article/details/118695359)
 
----
-- 相关比赛情况参见→[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
+
+###### 友情链接
+- [NLP人军火库](https://github.com/TingFree/NLPer-Arsenal)

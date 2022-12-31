@@ -1,5 +1,5 @@
 ---
-title: "Others"
+title: "其他"
 menuTitle: "Others"
 date: 2022-12-27T14:40:39+08:00
 draft: false
@@ -8,11 +8,17 @@ LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
 
-**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人)**
 > 从他人比赛经验中，总是可以学到很多东西
 
+{{% badge style="info" icon=" " title=" " %}}推荐系统{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}数据挖掘{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}知识图谱{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}图网络{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}多智能体决策{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}蛋白质结构预测{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}智能机器人{{% /badge %}}
+
 ---
-- [【2022-12-23】CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505907&idx=2&sn=0ba2bbd71c367ace67d8daf37a924dd8&chksm=c32ace7cf45d476a19c24d7cf5bc57122c39c2d76e735db83a9781a5932952a31caccf7c1447#rd)
 - [【2022-12-23】讯飞人岗匹配Top3方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505938&idx=2&sn=5d4f0fecf7ab9ae99fb2970bab2e7d84&chksm=c32ac19df45d488bf574e7bbb50180462f411949a7743c974e7ebf63cf269fe5e8d5f422d570#rd)
 - [【2022-12-23】讯飞房屋租赁价格预测挑战赛Top1!!!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505875&idx=1&sn=4413426db5e2c51af92b550e94abec7b&chksm=c32ace5cf45d474ae505825adb852aa85dac9c90c5ce9db4f907c760e97aaf7c7fafcf1ab0e5#rd)
 - [【2022-12-23】提升小场景时间序列预测效果的方法。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505912&idx=1&sn=c3f222e1edf00af20c6fc734c56b3172&chksm=c32ace77f45d476189b1936df1a5f7be24219b87b4ceedaadf2691ed0d5c4e0b6ce4518e2ff9#rd)

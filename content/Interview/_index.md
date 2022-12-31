@@ -9,6 +9,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
 
 > 从他人比赛经验中，总是可以学到很多东西
+
 ---
 - [【2022-12-09】AI竞赛经验 | 互联网＋大赛经验分享by刘玉洁](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247484857&idx=1&sn=18abb546f36b103f050026065d74ed32&chksm=fe5fdeecc92857fa4c30e55d7a03d80b29ddca62c78c8f2a6a555e3b33f6220090caadda75e0#rd)
 - [【2022-12-09】AI竞赛经验 | “青创北京”2022年 “挑战杯”首都大学生创业计划竞赛分享by刘寿宇](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485396&idx=1&sn=451a26593820dd1732b8366ff33b1b5b&chksm=fe5fdc81c92855972bf2bc1aa05ab5e4d4c52a76d9284990bb75ab410310a7f5a4cc64c68872#rd)
