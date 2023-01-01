@@ -17,6 +17,7 @@ LastModifierEmail: "liekkaskono@163.com"
  
 ---
  
+- [【2023-01-01】EMNLP 2022 最佳论文！这脑洞绝了….](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506032&idx=1&sn=b3e55f0ff4570302d87ee6af44dc96f9&chksm=c32ac1fff45d48e9f5c49a0e87aeb5426b010c035c621d6fba19a1616f4d9d9fc44b51687309#rd)
 - [【2022-12-03】Kaggle Feedback Prize冠军方案分享](https://mp.weixin.qq.com/s/boWx1P9HxKsxdgZLNp7DBw)
 - [【2022-12-01】文本分类微调技巧实战2.0](http://mp.weixin.qq.com/s?__biz=MzAxOTU5NTU4MQ==&mid=2247490397&idx=1&sn=c4594d3d6926b21ca94f1aae4c30cc5d&chksm=9bc5f30facb27a19041dda0a86d75ea0a0a0130835310208ffc9d9b1b081259127fd42452edc#rd)
 - [【2022-11-30】三等奖方案|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=4&sn=35e3484815b5f038bdef53ba322770b1&chksm=eca4df47dbd35651f1ba90edf161f7c132d2a76fa1698512da833e313e4699c16ae2d6457233#rd)
@@ -35,7 +36,7 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2022-09-29】2022文本智能校对冠军方案！已落地！](https://mp.weixin.qq.com/s/E8A-H3RctJcZLXGv0oWXiQ)
 - [【2022-08-30】获奖方案|2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题三等奖](https://mp.weixin.qq.com/s/sdvM6Q8x1g8gFYnyRm-bXQ)
 - [【2022-08-23】“中文保险小样本多任务竞赛”冠军方案 (已开源源码和模型)](https://mp.weixin.qq.com/s/MeqlMgtvQqnE7x3sJlKHKw)
-- [【2022-08-16】“中文保险小样本多任务竞赛”megemini团队方案（第三名）](https://mp.weixin.qq.com/s/77nbuiftdYrhWck0or6Sdw)
+- [【2022-08-16】中文保险小样本多任务竞赛”知识工场团队方案——2022AIWIN（春季）](https://www.chinait.com/ai-cloud-edge/115533.html)
 - [【2022-01-10】新冠疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)
 - [【2022-01-05】CCF BDCI 2019 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
 - [【2022-01-05】WMT 2021冠军来了！重建巴别塔之多语言翻译模型](https://mp.weixin.qq.com/s/i2_5DDKHv-iShnhjObRg9Q)
@@ -43,8 +44,8 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2021-12-07】竞赛大牛亲授 | 使用深度学习模型及NLP竞赛上分技巧](https://blog.51cto.com/u_15310860/3198328)
 - [【2021-12-07】如何到top5%？NLP文本分类和情感分析竞赛总结](https://cloud.tencent.com/developer/article/1540861)
 - [【2021-12-07】NLP 竞赛经验总结-2021](https://zhuanlan.zhihu.com/p/371198818)
-- [【2021-12-07】SemEval-2020自由文本关系抽取冠军方案解读 （附NLP竞赛常用技巧总结）](https://mp.weixin.qq.com/s?src=11&timestamp=1638859300&ver=3481&signature=ZTDQ3chX2mjQ0m3cJ8Pc4zT50l-UCm6Ikf-cgxMd9t94JZJHSOzQP7hPQnOBoTG197aPCUYnPHGTqcueM044jE1xlBKChpp6Q4ekSatToQinT591bVXL7kXIz-HPztx6&new=1)
-- [【2021-12-07】【比赛】CCL“中国法研杯”相似案例匹配评测竞赛 - TOP队伍攻略分享](https://mp.weixin.qq.com/s?src=11&timestamp=1638859300&ver=3481&signature=0Gbq9zrr-SROJmhft9yfIvD8kp3CGFX*zPCoQeUJ7CLS0lT113McuLOuIRlnQZufZXC0BBN7G-pGWLx1iGhs-QSUdDChoif7auA0t7LC-HAsPfN0Cdf7B6geq*mUI*Vz&new=1)
+- [【2021-12-07】SemEval-2020自由文本关系抽取冠军方案解读 （附NLP竞赛常用技巧总结）](https://zhuanlan.zhihu.com/p/212227643)
+- [【2021-12-07】【比赛】CCL“中国法研杯”相似案例匹配评测竞赛 - TOP队伍攻略分享](https://zhuanlan.zhihu.com/p/88207736)
 - [【2021-12-07】搜狐文本匹配算法比赛top2解读](https://blog.csdn.net/qq_16949707/article/details/118695359)
 
 
