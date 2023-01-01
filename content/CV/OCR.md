@@ -1,12 +1,12 @@
 ---
 title: "OCR"
-date: 2022-12-27T14:40:39+08:00
+date: 2023-01-01
 draft: false
 weight: 3
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
-
+ 
 - [【2022-08-10】三年磨一剑——微信OCR图片文字提取](https://cloud.tencent.com/developer/article/1798403)
 - [【2022-06-24】360数科夺得OCR国际技术竞赛冠军，商超小票文本行识别如何做到最佳？](https://mp.weixin.qq.com/s/JofpqmaaHwx-s9PLTE3YzA)
 - [【2022-04-14】AlexNet做文档布局分析 (版面分析)&数据集](https://blog.csdn.net/demm868/article/details/106010223)
