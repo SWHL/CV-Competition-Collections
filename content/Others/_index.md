@@ -1,15 +1,15 @@
 ---
 title: "其他"
 menuTitle: "Others"
-date: 2022-12-27T14:40:39+08:00
+date: 2023-01-01
 draft: false
 weight: 4
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
-
+ 
 > 从他人比赛经验中，总是可以学到很多东西
-
+ 
 {{% badge style="info" icon=" " title=" " %}}推荐系统{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}数据挖掘{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}知识图谱{{% /badge %}}
@@ -17,8 +17,10 @@ LastModifierEmail: "liekkaskono@163.com"
 {{% badge style="info" icon=" " title=" " %}}多智能体决策{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}蛋白质结构预测{{% /badge %}}
 {{% badge style="info" icon=" " title=" " %}}智能机器人{{% /badge %}}
-
+ 
 ---
+ 
+- [【2022-12-23】CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505907&idx=2&sn=0ba2bbd71c367ace67d8daf37a924dd8&chksm=c32ace7cf45d476a19c24d7cf5bc57122c39c2d76e735db83a9781a5932952a31caccf7c1447#rd)
 - [【2022-12-23】讯飞人岗匹配Top3方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505938&idx=2&sn=5d4f0fecf7ab9ae99fb2970bab2e7d84&chksm=c32ac19df45d488bf574e7bbb50180462f411949a7743c974e7ebf63cf269fe5e8d5f422d570#rd)
 - [【2022-12-23】讯飞房屋租赁价格预测挑战赛Top1!!!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505875&idx=1&sn=4413426db5e2c51af92b550e94abec7b&chksm=c32ace5cf45d474ae505825adb852aa85dac9c90c5ce9db4f907c760e97aaf7c7fafcf1ab0e5#rd)
 - [【2022-12-23】提升小场景时间序列预测效果的方法。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505912&idx=1&sn=c3f222e1edf00af20c6fc734c56b3172&chksm=c32ace77f45d476189b1936df1a5f7be24219b87b4ceedaadf2691ed0d5c4e0b6ce4518e2ff9#rd)
@@ -85,10 +87,10 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2022-01-04】赵学敏：京东商品图谱构建与实体对齐](https://mp.weixin.qq.com/s/9y4x4Ui4a5HiHRwi-gGRmA)
 - [【2021-12-29】筛选风险词、用实体类型推断发现限售商品，阿里安全夺冠知识图谱大赛](https://mp.weixin.qq.com/s/1AXztwJCgkEauOKZwfs5Kw)
 - [【2021-12-23】电商风控赛事亚军方案分享](https://mp.weixin.qq.com/s/jpJBvPihhHxREC6-FcXGyQ)
-- [【2021-12-12】- [冠军团队]分享微信大数据挑战赛经验](https://mp.weixin.qq.com/s/Jxydvm9Ri11i4RF4NbS0bA)
+- [【2021-12-12】[冠军团队]分享微信大数据挑战赛经验](https://mp.weixin.qq.com/s/Jxydvm9Ri11i4RF4NbS0bA)
 - [【2021-12-08】KDD Cup 2020 Debiasing比赛冠军技术方案及在美团的实践](https://tech.meituan.com/2020/08/20/kdd-cup-debiasing-practice.html)
 - [【2021-12-08】2021微信大数据挑战赛之推荐算法科普篇](https://developers.weixin.qq.com/community/develop/article/doc/0000e60e1c8ed881174c39f9d56413)
-- [【2021-12-08】推荐系统竞赛TOP开源方案汇总- [持续更新]](https://zhuanlan.zhihu.com/p/269635363)
+- [【2021-12-08】推荐系统竞赛TOP开源方案汇总[持续更新]](https://zhuanlan.zhihu.com/p/269635363)
 - [【2021-12-08】NVIDIA-Merlin | 推荐系统竞赛解决方案集锦](https://zhuanlan.zhihu.com/p/442001853)
 - [【2021-12-08】微信推荐算法大赛总结——树模型篇](https://zhuanlan.zhihu.com/p/402162597)
 - [【2021-12-08】全球顶级算法赛事 Top5 选手，跟你聊聊推荐系统领域的“战斗机”](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52ef1cdc96fe6e50a51cb8)

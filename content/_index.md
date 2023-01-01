@@ -2,9 +2,9 @@
 archetype: "home"
 title: "AI比赛经验帖子集锦"
 ---
-
+ 
 {{% children sort="weight" %}}
-
+ 
 ###### 竞赛文章公众号
 | **公众号名称** | **简单介绍** |
 |:---:|:---|
