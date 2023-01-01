@@ -25,5 +25,5 @@
 - 框架图如下：
     ```mermaid
     flowchart LR
-        A(main) --将全部md文件转换格式为content，更新到--> B(hugo_source) --自动编译部署--> C(gh-pages) --CI--> D(Site)
+        A(main) --将全部md文件转换格式为content更新到--> B(hugo_source) --自动编译部署--> C(gh-pages) --CI--> D(Site)
     ```
