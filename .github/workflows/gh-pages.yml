@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - hugo_source  # Set a branch that will trigger a deployment
-  # paths:
-  #   - 'content/**/*.md'
-  #   - 'config.toml'
 
 jobs:
   deploy:
