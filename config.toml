@@ -17,7 +17,7 @@ theme = "hugo-theme-relearn"
 
 [params]
   # 页面右上角显示编辑的按钮
-  editURL = "https://github.com/SWHL/AI-Competition-Collections/edit/main/"
+#   editURL = "https://github.com/SWHL/AI-Competition-Collections/edit/main/"
 
   # meta
   description = "AI Competition Collections"
