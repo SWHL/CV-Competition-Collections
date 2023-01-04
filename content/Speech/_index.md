@@ -10,6 +10,10 @@ LastModifierEmail: "liekkaskono@163.com"
  
 > 从他人比赛经验中，总是可以学到很多东西
  
+{{% badge style="info" icon=" " title=" " %}}语音识别{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}音频分类{{% /badge %}}
+{{% badge style="info" icon=" " title=" " %}}语音合成{{% /badge %}}
+ 
 ---
  
 - [【2023-01-04】竞赛总结：Cornell Birdcall比赛复盘](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247486716&amp;idx=1&amp;sn=c197333bb2978af65803268abcef025d&amp;chksm=96c42139a1b3a82f4d8a050ff5935bdd636db758d36e761dea6ae6704729786d265ca44d0b20&amp;scene=21#wechat_redirect)
