@@ -1,6 +1,6 @@
 ---
 title: "AI算法"
-date: 2023-01-21
+date: 2023-02-03
 draft: false
 weight: 11
 LastModifierDisplayName: "SWHL"
