@@ -20,6 +20,7 @@
     menuTitle: "CV"
     ```
 - 更改左上角logo，文件：`themes/hugo-theme-relearn/layouts/partials/logo.html`
+- 插入图像的语法文档：[docs](https://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html)
 
 #### 分支说明
 - `main`: 用来作为主要分支，更新从这里开始
