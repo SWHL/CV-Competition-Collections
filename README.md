@@ -1,5 +1,8 @@
 #### 主题来源
-- [hugo-theme-relearn](https://mcshelby.github.io/hugo-theme-relearn)
+- [hugo-theme-relearn](https://mcshelby.github.io/hugo-theme-relearn)，当前分支使用的版本为[v5.9.0](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590-2022-12-23)
+
+### TODO
+- [ ] 当前仓库中定制的设置均在原地做了修改，存在后期更新`hugo-theme-learn`版本更新困难问题，需要将定制部分从主题代码中独立出来。暂未做
 
 #### 主题设置相关
 - Shortcodes中代码放置到各个md中，即可使用
