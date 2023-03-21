@@ -49,7 +49,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/others/index.html"
   },
   {
-    "content": " 【2023-01-04】竞赛总结：Kaggle Shopee多模态检索 【2023-01-01】竞赛总结：2022微信大数据挑战赛 【2022-07-07】字节跳动极光-多模态技术团队VizWiz 2022 Answer Grounding竞赛冠军方案 【2022-03-19】ACM MM 2021 WAB 产品的识别冠军方案 ",
+    "content": " 【2023-03-21】来也-微信头像性别预测 【2023-01-04】竞赛总结：Kaggle Shopee多模态检索 【2023-01-01】竞赛总结：2022微信大数据挑战赛 【2022-07-07】字节跳动极光-多模态技术团队VizWiz 2022 Answer Grounding竞赛冠军方案 【2022-03-19】ACM MM 2021 WAB 产品的识别冠军方案 ",
     "description": "",
     "tags": null,
     "title": "多模态",
