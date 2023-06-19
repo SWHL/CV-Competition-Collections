@@ -91,7 +91,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B%E8%AF%86%E5%88%AB/index.html"
   },
   {
-    "content": " 【2023-03-03】竞赛总结：爱奇艺视频版权检测 【2022-07-07】字节视觉智能团队CVPR2022 GEBD赛道（通用事件边界检测）冠军方案 【2022-07-07】字节视觉智能团队CVPR2022 GEBC赛道（通用事件边界描述赛道）冠军方案源码 ",
+    "content": " 【2023-06-19】微信视觉团队斩获CVPR Video Similarity大赛双赛道冠军，视频号也用到了这些技术 【2023-03-03】竞赛总结：爱奇艺视频版权检测 【2022-07-07】字节视觉智能团队CVPR2022 GEBD赛道（通用事件边界检测）冠军方案 【2022-07-07】字节视觉智能团队CVPR2022 GEBC赛道（通用事件边界描述赛道）冠军方案源码 ",
     "description": "",
     "tags": null,
     "title": "视频理解",
