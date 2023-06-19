@@ -1,7 +1,7 @@
 ---
 title: "语音赛事经验贴"
 menuTitle: "Speech"
-date: 2023-06-16
+date: 2023-06-19
 draft: false
 weight: 3
 LastModifierDisplayName: "SWHL"
