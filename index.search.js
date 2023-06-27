@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html"
   },
   {
-    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 视频异常检测 自动驾驶 ",
+    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 零样本异常检测 自动驾驶 ",
     "description": "",
     "tags": null,
     "title": "计算机视觉比赛经验贴",
@@ -119,7 +119,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/index.html"
   },
   {
-    "content": " 【2023-06-16】再夺全球顶级竞赛CVPR NTIRE冠军，打造更好用户体验，淘宝拥有哪些内容技术？ 【2023-01-04】全国人工智能大赛 AI+4K HDR赛项 冠军团队方案分享 【2022-06-24】旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！ 【2022-07-07】字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案 【2022-04-24】[CVPR 2022 \u0026 NTIRE 2022 冠军] 多快好省的高光谱图像重建 【2022-06-02】字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军 【2022-05-19】CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的 【2022-04-30】NTIRE 2022 视频增强冠军经验分享 【2022-04-24】旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！ 【2022-03-19】CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案 【2022-03-30】百度网盘文档图像摩尔纹消除比赛分享 ",
+    "content": " 【2023-06-27】NTIRE2023-RTSR-Track2 冠军方案详解 【2023-06-16】再夺全球顶级竞赛CVPR NTIRE冠军，打造更好用户体验，淘宝拥有哪些内容技术？ 【2023-01-04】全国人工智能大赛 AI+4K HDR赛项 冠军团队方案分享 【2022-06-24】旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！ 【2022-07-07】字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案 【2022-04-24】[CVPR 2022 \u0026 NTIRE 2022 冠军] 多快好省的高光谱图像重建 【2022-06-02】字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军 【2022-05-19】CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的 【2022-04-30】NTIRE 2022 视频增强冠军经验分享 【2022-04-24】旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！ 【2022-03-19】CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案 【2022-03-30】百度网盘文档图像摩尔纹消除比赛分享 ",
     "description": "",
     "tags": null,
     "title": "图像视频修复_增强_重建_超分",
@@ -147,11 +147,11 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/index.html"
   },
   {
-    "content": " 【2023-06-16】腾讯优图荣获CVPR 2023视觉异常检测挑战赛冠军！ ",
+    "content": " 【2023-06-16】CVPR 2023 VAND Workshop Challenge零样本异常检测冠军方案 ",
     "description": "",
     "tags": null,
-    "title": "视频异常检测",
-    "uri": "/AI-Competition-Collections/cv/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html"
+    "title": "零样本异常检测",
+    "uri": "/AI-Competition-Collections/cv/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html"
   },
   {
     "content": " 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
