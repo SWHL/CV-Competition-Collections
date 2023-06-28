@@ -1,6 +1,6 @@
 ---
 title: "OCR"
-date: 2023-06-27
+date: 2023-06-28
 draft: false
 weight: 3
 LastModifierDisplayName: "SWHL"
