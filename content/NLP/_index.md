@@ -1,7 +1,7 @@
 ---
 title: "NLP赛事经验贴"
 menuTitle: "NLP"
-date: 2023-06-28
+date: 2023-06-30
 draft: false
 weight: 2
 LastModifierDisplayName: "SWHL"
