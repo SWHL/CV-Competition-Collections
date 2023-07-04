@@ -154,7 +154,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html"
   },
   {
-    "content": " 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
+    "content": " 【2023-07-04】CVPR23 | 3D Occupancy 预测冠军方案：FB-OCC 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
     "description": "",
     "tags": null,
     "title": "自动驾驶",
