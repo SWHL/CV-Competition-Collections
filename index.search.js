@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html"
   },
   {
-    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 零样本异常检测 自动驾驶 综合类型 ",
+    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 自动驾驶 异常检测 综合类型 ",
     "description": "",
     "tags": null,
     "title": "计算机视觉比赛经验贴",
@@ -147,18 +147,18 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/index.html"
   },
   {
-    "content": " 【2023-06-16】CVPR 2023 VAND Workshop Challenge零样本异常检测冠军方案 ",
-    "description": "",
-    "tags": null,
-    "title": "零样本异常检测",
-    "uri": "/AI-Competition-Collections/cv/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html"
-  },
-  {
     "content": " 【2023-07-04】CVPR23 | 3D Occupancy 预测冠军方案：FB-OCC 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
     "description": "",
     "tags": null,
     "title": "自动驾驶",
     "uri": "/AI-Competition-Collections/cv/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.html"
+  },
+  {
+    "content": " 【2023-07-19】CVPR VISION 23挑战赛第1赛道亚军解决方案 - 数据高效缺陷检测 【2023-06-16】CVPR 2023 VAND Workshop Challenge零样本异常检测冠军方案 ",
+    "description": "",
+    "tags": null,
+    "title": "异常检测",
+    "uri": "/AI-Competition-Collections/cv/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html"
   },
   {
     "content": " 【2023-07-14】ECV2023｜仪表盘读数识别冠军方案解读 ",
