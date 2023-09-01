@@ -1,7 +1,7 @@
 ---
 title: "比赛团队访谈"
 menuTitle: "Interview"
-date: 2023-08-25
+date: 2023-09-01
 draft: false
 weight: 5
 LastModifierDisplayName: "SWHL"
@@ -12,6 +12,7 @@ LastModifierEmail: "liekkaskono@163.com"
  
 ---
  
+- [【2023-09-01】技术时代的“手艺人”，天才程序员改变世界](https://mp.weixin.qq.com/s/uO7ZUmPUyyxJY7aDwOjteA)
 - [【2023-05-12】AI竞赛经验 | 挑战杯大赛经验分享by龚珏](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247486020&idx=2&sn=8c818347059cff9565dda4b43f38e449&chksm=fe5fd111c9285807dbe6e3767d6159198233568d551ebec3d75c1e6bb467a88ed66512bdc992#rd)
 - [【2023-05-09】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/xl1-LJNHrC0yLzM7ZePT7A)
 - [【2023-04-08】AI竞赛经验丨全国大学生光电设计竞赛经验分享by陈冰文](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485844&idx=1&sn=e2652e70b9cd259f8d68ac62bb5dc7a7&chksm=fe5fd2c1c9285bd790a8d7dd69fee2dc7add69f1072c6a147cc26164b9c44904c1bb104ea637#rd)
