@@ -1,9 +1,9 @@
 ---
-title: "比赛团队访谈"
+title: "语言大模型比赛经验帖"
 menuTitle: "Interview"
 date: 2023-10-12
 draft: false
-weight: 5
+weight: 6
 LastModifierDisplayName: "SWHL"
 LastModifierEmail: "liekkaskono@163.com"
 ---
