@@ -1,5 +1,5 @@
 ---
-title: "计算机视觉比赛经验贴"
+title: "计算机视觉比赛经验帖"
 menuTitle: "CV"
 weight: 1
 ---
