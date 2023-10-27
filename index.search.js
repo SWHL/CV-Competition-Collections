@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html"
   },
   {
-    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 自动驾驶 异常检测 目标计数 综合类型 ",
+    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 自动驾驶 其他 异常检测 目标计数 综合类型 ",
     "description": "",
     "tags": null,
     "title": "计算机视觉比赛经验帖",
@@ -159,6 +159,13 @@ var relearn_search_index = [
     "tags": null,
     "title": "自动驾驶",
     "uri": "/AI-Competition-Collections/cv/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.html"
+  },
+  {
+    "content": " 【2023-10-27】商汤LPCV冠军方案揭秘！效率优化的极致探索 ",
+    "description": "",
+    "tags": null,
+    "title": "其他",
+    "uri": "/AI-Competition-Collections/cv/%E5%85%B6%E4%BB%96/index.html"
   },
   {
     "content": " 【2023-07-19】CVPR VISION 23挑战赛第1赛道亚军解决方案 - 数据高效缺陷检测 【2023-06-16】CVPR 2023 VAND Workshop Challenge零样本异常检测冠军方案 ",
