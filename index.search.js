@@ -91,7 +91,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E6%AF%94%E8%B5%9B%E6%8A%80%E5%B7%A7/index.html"
   },
   {
-    "content": " 【2021-12-08】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享 【2022-01-06】CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享 ",
+    "content": " 【2023-11-23】快来抄作业！MICCAI 2023头影关键点检测挑战赛SOTA方案全面解析 【2021-12-08】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享 【2022-01-06】CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享 ",
     "description": "",
     "tags": null,
     "title": "关键点检测识别",
