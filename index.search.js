@@ -182,7 +182,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E7%9B%AE%E6%A0%87%E8%AE%A1%E6%95%B0/index.html"
   },
   {
-    "content": " 【2023-07-14】ECV2023｜仪表盘读数识别冠军方案解读 ",
+    "content": " 【2024-01-07】客流统计赛题冠军方案解读-2023长三角（芜湖）人工智能大赛 【2023-07-14】ECV2023｜仪表盘读数识别冠军方案解读 ",
     "description": "",
     "tags": null,
     "title": "综合类型",
