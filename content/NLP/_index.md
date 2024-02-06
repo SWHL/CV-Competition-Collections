@@ -1,7 +1,7 @@
 ---
 title: "NLP赛事经验帖"
 menuTitle: "NLP"
-date: 2024-02-04
+date: 2024-02-06
 draft: false
 weight: 2
 LastModifierDisplayName: "SWHL"
@@ -21,6 +21,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-02-06】竞赛总结：科大讯飞2023 校招简历项目技能匹配检测](https://mp.weixin.qq.com/s/tw7NsNXEYPI4yi0LuXZraQ)
 - [【2024-01-23】竞赛总结：科大讯飞2023 人岗匹配挑战赛](https://mp.weixin.qq.com/s/fPQ_JhDvoOGMH5Yi7QAg6g)
 - [【2024-01-12】竞赛总结：Kaggle 打字与写作质量预测](https://mp.weixin.qq.com/s/AvBpOVANpoCEB9WCBlDIsQ)
 - [【2023-12-09】基于财报的次日股票价格涨跌预测挑战赛方案分享。](https://mp.weixin.qq.com/s/moUn00Aek9bhu4gu2JCKJQ)
