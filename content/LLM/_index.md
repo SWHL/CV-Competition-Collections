@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2024-04-16
+date: 2024-04-24
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-04-24】Kaggle大模型比赛 Prompt Recovery方案来啦！](https://mp.weixin.qq.com/s/A0ZORGh2IewLsYtRnkbYvQ)
 - [【2024-04-16】斩获WSDM 2024冠军方案！](https://mp.weixin.qq.com/s/mRinaUQIx5rh1C5oZOE2zw)
 - [【2024-03-26】 NeurIPS 2023_MachineUnlearning Top2方案](https://mp.weixin.qq.com/s/CyHyMiNgDY_QH9TvqeSRaA)
 - [【2024-03-01】【中科院计算所】WSDM 2024冠军方案：基于大模型进行多文档问答](https://mp.weixin.qq.com/s/WIe28kk0DQ0x6cf1YHrINA)
