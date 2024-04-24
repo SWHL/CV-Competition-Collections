@@ -22,3 +22,23 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2023-10-18】大模型Kaggle比赛首秀冠军方案总结-更新版](https://mp.weixin.qq.com/s/aXnhUAP6ZmlgkdI8JI8VFQ)
 - [【2023-10-12】ChatGLM 金融大模型决赛方案总结](https://mp.weixin.qq.com/s/zdHlw85qZcY0IytYNOOBFQ)
 - [【2023-10-12】大模型Kaggle比赛首秀金牌总结](https://mp.weixin.qq.com/s/FCSQxNTl4m9WwhVWQhQoVg)
+
+
+
+                            <script src="https://giscus.app/client.js"
+                                    data-repo="SWHL/AI-Competition-Collections"
+                                    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="
+                                    data-category="Ideas"
+                                    data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"
+                                    data-mapping="title"
+                                    data-strict="0"
+                                    data-reactions-enabled="1"
+                                    data-emit-metadata="0"
+                                    data-input-position="top"
+                                    data-theme="preferred_color_scheme"
+                                    data-lang="zh-CN"
+                                    data-loading="lazy"
+                                    crossorigin="anonymous"
+                                    async>
+                            </script>
+        
