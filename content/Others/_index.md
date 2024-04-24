@@ -250,21 +250,4 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2021-12-27】竞赛总结：Data-Centric AI Competition](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247497576&amp;idx=1&amp;sn=c70d64a363c26cf11db484c89360b7be&amp;chksm=96c7daada1b053bbc08028331830696b74b7bb03781a075220bc4d1e5f21a5a1d1de89255ddd&amp;scene=21#wechat_redirect)
 
 
-
-                            <script src="https://giscus.app/client.js"
-                                    data-repo="SWHL/AI-Competition-Collections"
-                                    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="
-                                    data-category="Ideas"
-                                    data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"
-                                    data-mapping="title"
-                                    data-strict="0"
-                                    data-reactions-enabled="1"
-                                    data-emit-metadata="0"
-                                    data-input-position="top"
-                                    data-theme="preferred_color_scheme"
-                                    data-lang="zh-CN"
-                                    data-loading="lazy"
-                                    crossorigin="anonymous"
-                                    async>
-                            </script>
-        
+<script src="https://giscus.app/client.js"data-repo="SWHL/AI-Competition-Collections"data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="data-category="Ideas"data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"data-mapping="title"data-strict="0"data-reactions-enabled="1"data-emit-metadata="0"data-input-position="top"data-theme="preferred_color_scheme"data-lang="zh-CN"data-loading="lazy"crossorigin="anonymous"async></script>

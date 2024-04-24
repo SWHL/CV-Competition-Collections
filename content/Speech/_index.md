@@ -29,21 +29,4 @@ LastModifierEmail: "liekkaskono@163.com"
 - [【2021-12-07】新网杯top1方案：手把手构建中文语音合成模型！](https://mp.weixin.qq.com/s/xRqvXYtWqY6HbDawmxBpbw)
 
 
-
-                            <script src="https://giscus.app/client.js"
-                                    data-repo="SWHL/AI-Competition-Collections"
-                                    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="
-                                    data-category="Ideas"
-                                    data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"
-                                    data-mapping="title"
-                                    data-strict="0"
-                                    data-reactions-enabled="1"
-                                    data-emit-metadata="0"
-                                    data-input-position="top"
-                                    data-theme="preferred_color_scheme"
-                                    data-lang="zh-CN"
-                                    data-loading="lazy"
-                                    crossorigin="anonymous"
-                                    async>
-                            </script>
-        
+<script src="https://giscus.app/client.js"data-repo="SWHL/AI-Competition-Collections"data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="data-category="Ideas"data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"data-mapping="title"data-strict="0"data-reactions-enabled="1"data-emit-metadata="0"data-input-position="top"data-theme="preferred_color_scheme"data-lang="zh-CN"data-loading="lazy"crossorigin="anonymous"async></script>
