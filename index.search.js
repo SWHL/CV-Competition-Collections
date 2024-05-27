@@ -56,7 +56,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%A4%9A%E6%A8%A1%E6%80%81/index.html"
   },
   {
-    "content": " 【2023-11-04】打破遮挡和数据稀缺难题：MMSports 2023 全球分割竞赛冠军方案分享！ 【2023-09-16】斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术方案解读 【2023-08-25】CVPR 2023 冠军解决方案，零样本异常分割新突破！ 【2023-05-11】基于昇思MindSpore AI框架的肾脏肿瘤分割一等奖方案 【2023-01-04】华录杯数据湖大赛：车道线识别 Top5方案 【2023-01-04】竞赛总结：Kaggle HuBMAP肾小球比赛 【2023-01-01】竞赛总结：2020NAIC遥感影像 Y^2C团队（优胜奖队伍） 【2021-12-14】魔改nnU-Net夺冠！2021 BraTS 脑肿瘤分割竞赛第一名解决方案 【2022-07-07】字节智能创作AI平台Byte-IC-AutoML AVA比赛冠军方案 【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源） 【2021-11-01】LVIS Challenge 2021长尾分布实例分割冠军解决方案 ",
+    "content": " 【2024-05-27】UBC Ovarian Cancer Subtype Classification and Outlier Detection 【2023-11-04】打破遮挡和数据稀缺难题：MMSports 2023 全球分割竞赛冠军方案分享！ 【2023-09-16】斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术方案解读 【2023-08-25】CVPR 2023 冠军解决方案，零样本异常分割新突破！ 【2023-05-11】基于昇思MindSpore AI框架的肾脏肿瘤分割一等奖方案 【2023-01-04】华录杯数据湖大赛：车道线识别 Top5方案 【2023-01-04】竞赛总结：Kaggle HuBMAP肾小球比赛 【2023-01-01】竞赛总结：2020NAIC遥感影像 Y^2C团队（优胜奖队伍） 【2021-12-14】魔改nnU-Net夺冠！2021 BraTS 脑肿瘤分割竞赛第一名解决方案 【2022-07-07】字节智能创作AI平台Byte-IC-AutoML AVA比赛冠军方案 【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源） 【2021-11-01】LVIS Challenge 2021长尾分布实例分割冠军解决方案 ",
     "description": "",
     "tags": null,
     "title": "图像分割",
