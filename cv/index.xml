@@ -6,151 +6,151 @@
     <description>Recent content in 计算机视觉比赛经验帖 on AI Competition Collections</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://swhl.github.io/AI-Competition-Collections/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://swhl.github.io/AI-Competition-Collections/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>图像分类</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html</guid>
       <description> 【2024-01-12】基于相似性图片分类的病虫害识别冠军方案详解-2023长三角（芜湖）人工智能视觉算法大赛 【2023-07-28】Kaggle比赛总结：Benetech图表识别 【2023-05-12】Kaggle赛题总结：谷歌手语识别 【2023-01-04】biendata | U-RISC 神经元识别Top1分享 【2023-01-04】Kaggle | Bengali 比赛总结 【2023-01-04】竞赛总结：Kaggle SIIM-ISIC比赛复盘 【2023-01-04】竞赛总结：用ViT模型完成木薯叶分类 【2023-01-04】竞赛总结：百度商家招牌的分类与检测 【2022-12-23】CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案 【2022-12-17】CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案 【2022-10-06】【二等奖方案①】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 中科大+长三角创研院 【2022-10-06】【二等奖方案②】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 蓝月亮 【2022-10-06】【三等奖方案①】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 果壳小分队 【2022-10-06】【三等奖方案②】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 王炸 【2022-06-17】CVPR 2022视觉算法 赛道一：宠物生物特征识别竞赛Top团队方案 【2021-11-08】2021科大讯飞-X光安检图像识别赛Top1方案！ 【-】支付宝夺冠CVPR细粒度视觉分类挑战赛：数据增强+知识蒸馏 【-】详解这场图片分类赛baseline，赢取官方人才认证+奖金 【-】Kaggle木薯叶图像分类比赛打酱油经验帖 【-】图像分类：来自13个Kaggle项目的经验总结 【-】Apache Flink极客挑战赛-垃圾图片分类赛道冠军方案分享 【-】字节跳动获CVPR2021 细粒度图像竞赛双料冠军 【-】CVPR2021 FGVC8植物病理识别挑战赛，冠军方案解读 【-】搜狗商品识别中的一些技术应用 【-】ACCV2020国际细粒度网络图像识别冠军方案解读、经验总结 【-】JDATA 2019 雪豹识别挑战赛冠军方案 【-】TinyMind 多标签图像分类竞赛 之路 | 识别第三名代码 【-】华为云·垃圾分类亚军方案分享 </description>
     </item>
     <item>
       <title>目标检测</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.html</guid>
       <description>【2024-01-27】基于车载视角下多路标牌检测识别赛题冠军方案解读-2023长三角(芜湖)人工智能大赛 【2024-01-27】竞赛总结：科大讯飞2023 文档要素分类 【2023-12-09】竞赛总结：科大讯飞2023 X光安检图像识别挑战赛 【2023-11-18】冠军方案！2023第二届广州·琶洲算法大赛 【2023-07-22】ECV2023｜睡岗识别冠军方案解读 【2023-06-30】CVPR2023 Occupancy Prediction比赛方案总结 【2023-04-03】建议收藏！超实用的 YOLO 训练&amp;amp;测试技巧合集 【2023-03-03】徘徊检测赛题冠军方案｜PRCV2022计算机视觉算法应用技术挑战赛 【2022-09-13】客流统计识别冠军方案｜ECV 2022 【2023-01-15】CCBR2022 行为特征识别大赛｜躺坐识别赛道冠军方案 【2023-01-04】【冠军方案分享】算法赛道-‘数字人体’视觉挑战赛 【2023-01-04】【冠军方案分享】CIKM2020 安全AI挑战者计划第四期：通用目标检测的对抗攻击 【2022-11-05】大湾区算法大赛“路侧3D感知赛题” 冠军技术方案分享 【2023-02-12】竞赛总结：On Cloud 遥感云层检测 【2022-09-04】Waymo检测榜一！MPPNet：基于Proxy Point的多帧时序3D点云目标检测框架 【2022-08-23】户外违规广告牌识别冠军方案｜ECV 2022 【2022-08-21】街道垃圾识别冠军方案解读｜ECV2022 【2022-08-12】ECV2022｜沿街晾晒识别冠军方案 【2022-07-19】DOTAv2遥感图像旋转目标检测竞赛经验分享（Swin Transformer + Anchor free/based方案） 【2022-01-29】基于大尺寸图像的小目标检测竞赛经验总结 【2021-12-07】当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读 【2021-11-16】ECV 2021 冠军方案解读：占道经营识别方案 【2021-11-16】ECV 2021 冠军方案解读：船只数量检测方案 【2021-11-11】ECV 2021 冠军方案解读：渣土车识别方案 【2021-11-11】ECV 2021 冠军方案解读：驾驶员不良驾驶识别方案 【-】目标检测类算法比赛的经验总结 【-】YOLOv5：道路损伤检测我最强！GRDDC&#39;2020大赛报告 【-】2021 瓷砖表面缺陷检测总决赛冠军解决方案：传统方法+深度学习 【-】安全帽佩戴检测赛冠军队伍 DeepBlueAI 技术分享 【-】天池-铝型材表面瑕疵检测 【-】竞赛经验｜Kaggle竞赛中使用YoloV5将物体检测的性能翻倍的心路历程 【-】ECCV2018 |百度视觉团队斩获 ECCV Google AI 目标检测竞赛冠军，获奖方案全解读 【-】表面缺陷检测数据集汇总及其相关项目推荐 【-】全国Top3!</description>
     </item>
     <item>
       <title>OCR</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/ocr/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/ocr/index.html</guid>
       <description> 【2023-12-28】2023科大讯飞表格结构识别挑战赛Top方案 【2023-07-13】ICDAR21表格解析方案汇总 【2023-03-21】ICPR 图像识别与检测挑战赛冠军方案出炉，基于偏旁部首来识别 Duang 字 【2023-01-04】CV赛题总结：人民币面值与编码识别 【2022-08-10】三年磨一剑——微信OCR图片文字提取 【2022-06-24】360数科夺得OCR国际技术竞赛冠军，商超小票文本行识别如何做到最佳？ 【2022-04-14】AlexNet做文档布局分析 (版面分析)&amp;amp;数据集 【2022-03-27】2021好未来表格识别技术第一名方案 【2022-02-24】[竞赛冠军方法分享] | PRCV 2021表格识别技术挑战赛&amp;ndash;分阶段表格识别方案 【2022-02-17】竞赛冠军方法分享 | 基于多模态GCN和句子排序的POI生成方案 【2021-11-19】ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码 【2022-01-23】世界人工智能大赛 Top1 方案！手写体 OCR 识别 【-】【冠军】ICDAR 2019 自由字型文本识别竞赛冠军方案 【-】好大夫在线在AI落地场景上的探索：医学报告单结构化 【-】基于OCR的身份证要素提取 【-】【比赛冠军方案开源】真实场景下身份证复印件OCR信息抽取 | 源码 </description>
     </item>
     <item>
       <title>多模态</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%A4%9A%E6%A8%A1%E6%80%81/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%A4%9A%E6%A8%A1%E6%80%81/index.html</guid>
       <description> 【2023-03-21】来也-微信头像性别预测 【2023-01-04】竞赛总结：Kaggle Shopee多模态检索 【2023-01-01】竞赛总结：2022微信大数据挑战赛 【2022-07-07】字节跳动极光-多模态技术团队VizWiz 2022 Answer Grounding竞赛冠军方案 【2022-03-19】ACM MM 2021 WAB 产品的识别冠军方案 </description>
     </item>
     <item>
       <title>图像分割</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2/index.html</guid>
       <description> 【2024-05-27】UBC Ovarian Cancer Subtype Classification and Outlier Detection 【2023-11-04】打破遮挡和数据稀缺难题：MMSports 2023 全球分割竞赛冠军方案分享！ 【2023-09-16】斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术方案解读 【2023-08-25】CVPR 2023 冠军解决方案，零样本异常分割新突破！ 【2023-05-11】基于昇思MindSpore AI框架的肾脏肿瘤分割一等奖方案 【2023-01-04】华录杯数据湖大赛：车道线识别 Top5方案 【2023-01-04】竞赛总结：Kaggle HuBMAP肾小球比赛 【2023-01-01】竞赛总结：2020NAIC遥感影像 Y^2C团队（优胜奖队伍） 【2021-12-14】魔改nnU-Net夺冠！2021 BraTS 脑肿瘤分割竞赛第一名解决方案 【2022-07-07】字节智能创作AI平台Byte-IC-AutoML AVA比赛冠军方案 【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源） 【2021-11-01】LVIS Challenge 2021长尾分布实例分割冠军解决方案 </description>
     </item>
     <item>
       <title>对抗攻击</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%AF%B9%E6%8A%97%E6%94%BB%E5%87%BB/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%AF%B9%E6%8A%97%E6%94%BB%E5%87%BB/index.html</guid>
       <description> 【2021-12-08】对抗图像变换攻击，腾讯OVB-AI技术中心获NeurIPS2021图像相似度挑战赛季军 </description>
     </item>
     <item>
       <title>比赛技巧</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E6%AF%94%E8%B5%9B%E6%8A%80%E5%B7%A7/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E6%AF%94%E8%B5%9B%E6%8A%80%E5%B7%A7/index.html</guid>
       <description> 【2022-04-26】称霸Kaggle的十大深度学习技巧！ 【2021-11-28】【极市打榜】算法竞赛/打榜通用技巧总结（附源码） 【-】图像赛排行榜拉开100名差距的小技巧 【-】DataWhale 各种比赛baseline汇总 【-】10亿级！淘宝大规模图像检索引擎算法设计概览 【2021-11-04】我是如何赢得吴恩达首届 Data-centric AI 竞赛的？ 【2021-10-28】ICCV2021 UVO Challenge 双冠军比赛复盘 【2021-09-29】高通人工智能应用创新大赛冠军方案解读 【-】干货 | 解密美图大规模多媒体数据检索技术DeepHash 【-】竞赛冠军方案：2020珠港澳人工智能算法大赛双料冠军解读 </description>
     </item>
     <item>
       <title>关键点检测识别</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B%E8%AF%86%E5%88%AB/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B%E8%AF%86%E5%88%AB/index.html</guid>
       <description> 【2023-11-23】快来抄作业！MICCAI 2023头影关键点检测挑战赛SOTA方案全面解析 【2021-12-08】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享 【2022-01-06】CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享 </description>
     </item>
     <item>
       <title>视频理解</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E8%A7%86%E9%A2%91%E7%90%86%E8%A7%A3/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E8%A7%86%E9%A2%91%E7%90%86%E8%A7%A3/index.html</guid>
-      <description> 【2023-06-19】微信视觉团队斩获CVPR Video Similarity大赛双赛道冠军，视频号也用到了这些技术 【2023-03-03】竞赛总结：爱奇艺视频版权检测 【2022-07-07】字节视觉智能团队CVPR2022 GEBD赛道（通用事件边界检测）冠军方案 【2022-07-07】字节视觉智能团队CVPR2022 GEBC赛道（通用事件边界描述赛道）冠军方案源码 </description>
+      <description> 【2024-06-07】CVPR 2024 视频场景解析挑战赛第一名方案详解 【2023-06-19】微信视觉团队斩获CVPR Video Similarity大赛双赛道冠军，视频号也用到了这些技术 【2023-03-03】竞赛总结：爱奇艺视频版权检测 【2022-07-07】字节视觉智能团队CVPR2022 GEBD赛道（通用事件边界检测）冠军方案 【2022-07-07】字节视觉智能团队CVPR2022 GEBC赛道（通用事件边界描述赛道）冠军方案源码 </description>
     </item>
     <item>
       <title>图像篡改检测</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E7%AF%A1%E6%94%B9%E6%A3%80%E6%B5%8B/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E7%AF%A1%E6%94%B9%E6%A3%80%E6%B5%8B/index.html</guid>
       <description> 【2022-06-17】CVPR 2022视觉算法 赛道二：图像篡改检测竞赛Top团队方案 </description>
     </item>
     <item>
       <title>AI算法</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/ai%E7%AE%97%E6%B3%95/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/ai%E7%AE%97%E6%B3%95/index.html</guid>
       <description> 【2021-12-12】腾讯QQ浏览器2021AI算法大赛，北大冠军团队经验分享，附详细代码 【2021-12-20】竞赛总结：QQ浏览器 2021 AI算法大赛 </description>
     </item>
     <item>
       <title>图像压缩</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/index.html</guid>
       <description> 【2022-07-07】火山引擎多媒体实验室在基于深度学习的图像压缩大赛 ：高、低码率双赛道夺冠方案 </description>
     </item>
     <item>
       <title>图像视频修复_增强_重建_超分</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E8%A7%86%E9%A2%91%E4%BF%AE%E5%A4%8D_%E5%A2%9E%E5%BC%BA_%E9%87%8D%E5%BB%BA_%E8%B6%85%E5%88%86/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E8%A7%86%E9%A2%91%E4%BF%AE%E5%A4%8D_%E5%A2%9E%E5%BC%BA_%E9%87%8D%E5%BB%BA_%E8%B6%85%E5%88%86/index.html</guid>
       <description> 【2023-07-24】大疆腾讯携手杀疯了！——单目深度估计挑战赛冠军方案-ICCV2023 【2023-06-27】NTIRE2023-RTSR-Track2 冠军方案详解 【2023-06-16】再夺全球顶级竞赛CVPR NTIRE冠军，打造更好用户体验，淘宝拥有哪些内容技术？ 【2023-01-04】全国人工智能大赛 AI+4K HDR赛项 冠军团队方案分享 【2022-06-24】旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！ 【2022-07-07】字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案 【2022-04-24】[CVPR 2022 &amp;amp; NTIRE 2022 冠军] 多快好省的高光谱图像重建 【2022-06-02】字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军 【2022-05-19】CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的 【2022-04-30】NTIRE 2022 视频增强冠军经验分享 【2022-04-24】旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！ 【2022-03-19】CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案 【2022-03-30】百度网盘文档图像摩尔纹消除比赛分享 </description>
     </item>
     <item>
       <title>行为识别</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/index.html</guid>
       <description> 【2023-03-17】全国人工智能大赛 行人重识别(Person ReID)赛项 季军团队方案分享 【2022-08-10】CVPR 2022 ActivityNet竞赛冠军：中科院深圳先进院提出高低分双模态行为识别框架 </description>
     </item>
     <item>
       <title>人脸识别</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/index.html</guid>
       <description> 【2024-04-30】FaceChain高保真人像风格生成挑战赛：一等奖方案 【2023-01-04】DF | 多人种人脸识别冠军分享（文末冠军彩蛋） 【2023-01-04】竞赛总结：安全AI之人脸识别对抗 【2023-01-04】微众人脸识别对抗亚军开源方案 【2023-01-01】竞赛总结：CCF多人种人脸识别 </description>
     </item>
     <item>
       <title>图像检索</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/index.html</guid>
       <description> 【2023-01-04】视频版权检测优胜解决方案 【2023-01-04】华为DIGIX 图像检索赛题亚军分享 【2023-01-01】KDD Cup 2022：亚马逊商品检索比赛总结 【2023-01-01】竞赛总结：Kaggle 谷歌图像编码与检索 【2023-01-01】竞赛总结：DrivenDATA 鲸鱼检索与识别 【2023-01-01】竞赛总结：FaceBook ISC2021 图像相似度检索（版权检测方向） </description>
     </item>
     <item>
       <title>自动驾驶</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.html</guid>
       <description> 【2023-07-04】CVPR23 | 3D Occupancy 预测冠军方案：FB-OCC 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ </description>
     </item>
     <item>
       <title>其他</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%85%B6%E4%BB%96/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%85%B6%E4%BB%96/index.html</guid>
       <description> 【2023-10-27】商汤LPCV冠军方案揭秘！效率优化的极致探索 </description>
     </item>
     <item>
       <title>异常检测</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.html</guid>
       <description> 【2023-07-19】CVPR VISION 23挑战赛第1赛道亚军解决方案 - 数据高效缺陷检测 【2023-06-16】CVPR 2023 VAND Workshop Challenge零样本异常检测冠军方案 </description>
     </item>
     <item>
       <title>目标计数</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E7%9B%AE%E6%A0%87%E8%AE%A1%E6%95%B0/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E7%9B%AE%E6%A0%87%E8%AE%A1%E6%95%B0/index.html</guid>
       <description> 【2023-07-01】【三等奖方案】基于TPU平台实现人群密度估计赛题「innovation」团队解题思路 【2023-07-01】【三等奖方案】基于TPU平台实现人群密度估计赛题「加速器」团队解题思路 【2023-07-01】【二等奖方案】基于TPU平台实现人群密度估计赛题「ChaMd5-AI」团队解题思路 【2023-06-16】【一等奖解题思路】基于雷达数据的航迹实时关联与轨迹融合任务赛题 </description>
     </item>
     <item>
       <title>综合类型</title>
       <link>https://swhl.github.io/AI-Competition-Collections/cv/%E7%BB%BC%E5%90%88%E7%B1%BB%E5%9E%8B/index.html</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://swhl.github.io/AI-Competition-Collections/cv/%E7%BB%BC%E5%90%88%E7%B1%BB%E5%9E%8B/index.html</guid>
       <description> 【2024-01-07】客流统计赛题冠军方案解读-2023长三角（芜湖）人工智能大赛 【2023-07-14】ECV2023｜仪表盘读数识别冠军方案解读 </description>
     </item>
