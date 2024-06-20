@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/index.html"
   },
   {
-    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 自动驾驶 其他 异常检测 目标计数 综合类型 ",
+    "content": " 图像分类 目标检测 OCR 多模态 图像分割 对抗攻击 比赛技巧 关键点检测识别 视频理解 图像篡改检测 AI算法 图像压缩 图像视频修复_增强_重建_超分 行为识别 人脸识别 图像检索 自动驾驶 其他 异常检测 目标计数 综合类型 视频分割 ",
     "description": "",
     "tags": null,
     "title": "计算机视觉比赛经验帖",
@@ -126,7 +126,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/index.html"
   },
   {
-    "content": " 【2023-07-24】大疆腾讯携手杀疯了！——单目深度估计挑战赛冠军方案-ICCV2023 【2023-06-27】NTIRE2023-RTSR-Track2 冠军方案详解 【2023-06-16】再夺全球顶级竞赛CVPR NTIRE冠军，打造更好用户体验，淘宝拥有哪些内容技术？ 【2023-01-04】全国人工智能大赛 AI+4K HDR赛项 冠军团队方案分享 【2022-06-24】旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！ 【2022-07-07】字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案 【2022-04-24】[CVPR 2022 \u0026 NTIRE 2022 冠军] 多快好省的高光谱图像重建 【2022-06-02】字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军 【2022-05-19】CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的 【2022-04-30】NTIRE 2022 视频增强冠军经验分享 【2022-04-24】旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！ 【2022-03-19】CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案 【2022-03-30】百度网盘文档图像摩尔纹消除比赛分享 ",
+    "content": " 【2024-06-20】CVPR NTIRE 冠亚军方案解读｜小红书如何提升短视频与直播体验质量？ 【2023-07-24】大疆腾讯携手杀疯了！——单目深度估计挑战赛冠军方案-ICCV2023 【2023-06-27】NTIRE2023-RTSR-Track2 冠军方案详解 【2023-06-16】再夺全球顶级竞赛CVPR NTIRE冠军，打造更好用户体验，淘宝拥有哪些内容技术？ 【2023-01-04】全国人工智能大赛 AI+4K HDR赛项 冠军团队方案分享 【2022-06-24】旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！ 【2022-07-07】字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案 【2022-04-24】[CVPR 2022 \u0026 NTIRE 2022 冠军] 多快好省的高光谱图像重建 【2022-06-02】字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军 【2022-05-19】CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的 【2022-04-30】NTIRE 2022 视频增强冠军经验分享 【2022-04-24】旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！ 【2022-03-19】CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案 【2022-03-30】百度网盘文档图像摩尔纹消除比赛分享 ",
     "description": "",
     "tags": null,
     "title": "图像视频修复_增强_重建_超分",
@@ -187,6 +187,13 @@ var relearn_search_index = [
     "tags": null,
     "title": "综合类型",
     "uri": "/AI-Competition-Collections/cv/%E7%BB%BC%E5%90%88%E7%B1%BB%E5%9E%8B/index.html"
+  },
+  {
+    "content": " 【2024-06-20】CVPR竞赛冠军方案：运动表达引导视频分割方法，代码及技术报告均已开源 【2024-06-20】CVPR竞赛冠军方案：复杂场景下的视频对象分割 ",
+    "description": "",
+    "tags": null,
+    "title": "视频分割",
+    "uri": "/AI-Competition-Collections/cv/%E8%A7%86%E9%A2%91%E5%88%86%E5%89%B2/index.html"
   },
   {
     "content": " 计算机视觉比赛经验帖 NLP赛事经验帖 语音赛事经验帖 其他 比赛团队访谈 语言大模型比赛经验帖 竞赛文章公众号 公众号名称 简单介绍 Kaggle竞赛宝典 数据竞赛Top方案，竞赛黑科技，竞赛到入职的一些感想。 DataFountain DF平台 (www.datafountain.cn) 官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤。 Datawhale 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景：for the learnner,和学习者一起成长。 世界AI创新大赛 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。 其他信息汇总平台 平台名称 简单介绍 Kaggle Solutions 列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。 nlp-competitions-list-review 复盘所有NLP比赛的TOP方案，只关注NLP比赛 竞赛平台 平台名称 简单介绍 CompHub 实时聚合国内外技术比赛，一个页面，全知道。 科大讯飞 A.I.开发者大赛 全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快 Coggle数据科学 全平台比赛信息汇总平台 DataFountain 涉及CV、NLP、数据挖掘等全面的比赛平台 和鲸社区 综合性比赛平台，侧重数据科学、机器人一些 FlyAI 涉及视觉计算、自然语言处理、语音、结构化数据等 CodaLab 多数为学术型的竞赛平台，包括一些学术会议的附赛 天池 比较有名，不作过多说明 同花顺算法平台 来源于真实场景业务问题，CV\\NLP\\语音都有涉及 Kaggle 比较有名，不作过多说明 AIWIN 一个比较小众的平台，涉及CV较多一些，每年有两次(春季赛|秋季赛) ",
