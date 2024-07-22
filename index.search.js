@@ -154,7 +154,7 @@ var relearn_search_index = [
     "uri": "/AI-Competition-Collections/cv/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/index.html"
   },
   {
-    "content": " 【2023-07-04】CVPR23 | 3D Occupancy 预测冠军方案：FB-OCC 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
+    "content": " 【2024-07-22】CVPR24 Navsim冠军方案｜告别单一轨迹，Hydra-MDP引领端到端自动驾驶规划新航向 【2023-07-04】CVPR23 | 3D Occupancy 预测冠军方案：FB-OCC 【2023-06-28】CVPR2023 Workshop | 在线高精地图构建挑战赛第一名方案！ 【2023-06-19】英伟达和南大提出FB-OCC夺得了CVPR自动驾驶挑战赛冠军？ ",
     "description": "",
     "tags": null,
     "title": "自动驾驶",
