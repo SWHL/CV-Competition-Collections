@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2024-08-26
+date: 2024-09-03
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
