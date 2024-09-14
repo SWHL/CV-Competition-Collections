@@ -1,7 +1,7 @@
 ---
 title: "其他"
 menuTitle: "Others"
-date: 2024-09-03
+date: 2024-09-14
 draft: false
 weight: 4
 LastModifierDisplayName: "SWHL"
@@ -22,6 +22,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-09-14】2024大数据挑战赛全国六强团队获奖经验+ppt分享（一）](https://mp.weixin.qq.com/s/a_ehPwIV74b_gUCaakMiNA)
 - [【2024-08-26】量化竞赛第一名的网络模型](https://mp.weixin.qq.com/s/OwLnIYVRoKAn7B3PVymx8Q)
 - [【2024-08-21】Kaggle 赛题总结：USPTO 布尔专利检索](https://mp.weixin.qq.com/s/MRVTCliOdWPoXP1iuuiQng)
 - [【2024-07-30】Kaggle赛题总结：AI数学奥赛挑战赛](https://mp.weixin.qq.com/s/MEVxQjulEuZLSpRYtfmPQw)
