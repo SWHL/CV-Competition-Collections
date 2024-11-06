@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2024-10-30
+date: 2024-11-06
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,8 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-11-06】《文心一言插件设计与开发》赛题 三等奖方案④ | 人力资源辅助插件](https://mp.weixin.qq.com/s/qp9xR4guvbfxVNaAGGU3_w)
+- [【2024-11-06】《文心一言插件设计与开发》赛题 二等奖方案② | 植物医生](https://mp.weixin.qq.com/s/fAonz_lGDCCWzWC4at4Y8w)
 - [【2024-10-25】《文心一言插件设计与开发》赛题 三等奖获奖方案](https://mp.weixin.qq.com/s/8DcJvnVuaqZMqKiDu8SMUw)
 - [【2024-10-08】ATEC2023：大模型的知识引入Rank7方案分享(含Code)](https://mp.weixin.qq.com/s/MS3LIkOqHoR2zpjuC0TUdg)
 - [【2024-10-08】三等奖方案 | 医问灵通](https://mp.weixin.qq.com/s/2G6YJnYex89b2i21e4jCxg)
