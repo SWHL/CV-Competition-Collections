@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2024-11-12
+date: 2024-11-18
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,8 +13,11 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-11-18】竞赛总结：CCF第七届AIOps国际挑战赛-季军方案分享 | 北航EasyRAG](https://mp.weixin.qq.com/s/b0hkWMoKCu-RL_deHPfEbg)
+- [【2024-11-18】竞赛总结：Kaggle LMSYS 大模型奖励建模](https://mp.weixin.qq.com/s/a7BG_vuYj_ho7C8DFpGO0Q)
 - [【2024-11-12】二等奖方案③ | 法律检索与案件分析](https://mp.weixin.qq.com/s/Z3n-YUQABN75EgtP5nIKVw)
 - [【2024-11-06】《文心一言插件设计与开发》赛题 三等奖方案④ | 人力资源辅助插件](https://mp.weixin.qq.com/s/qp9xR4guvbfxVNaAGGU3_w)
+- [【2024-11-06】《文心一言插件设计与开发》赛题 一等奖方案①| 火车票助手](https://mp.weixin.qq.com/s/FJm1kC6xaRX-AlgU_bx5pw)
 - [【2024-11-06】《文心一言插件设计与开发》赛题 二等奖方案② | 植物医生](https://mp.weixin.qq.com/s/fAonz_lGDCCWzWC4at4Y8w)
 - [【2024-10-25】《文心一言插件设计与开发》赛题 三等奖获奖方案](https://mp.weixin.qq.com/s/8DcJvnVuaqZMqKiDu8SMUw)
 - [【2024-10-08】ATEC2023：大模型的知识引入Rank7方案分享(含Code)](https://mp.weixin.qq.com/s/MS3LIkOqHoR2zpjuC0TUdg)
