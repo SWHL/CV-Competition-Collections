@@ -6,6 +6,7 @@ title: "AI比赛经验帖子集锦"
 {{% children sort="weight" %}}
  
 ###### 竞赛文章公众号
+
 | **公众号名称** | **简单介绍** |
 |:---:|:---|
 |Kaggle竞赛宝典| 数据竞赛Top方案，竞赛黑科技，竞赛到入职的一些感想。|
@@ -14,12 +15,14 @@ title: "AI比赛经验帖子集锦"
 | 世界AI创新大赛 | 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。|
 
 ###### 其他信息汇总平台
+
 | **平台名称** | **简单介绍** |
 |:---:|:---|
 |[Kaggle Solutions](https://farid.one/kaggle-solutions/)|列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。|
 |[nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review)|复盘所有NLP比赛的TOP方案，只关注NLP比赛|
 
 ###### 竞赛平台
+
 | **平台名称** | **简单介绍** |
 |:---:|:---|
 |[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) | 实时聚合国内外技术比赛，一个页面，全知道。 |
