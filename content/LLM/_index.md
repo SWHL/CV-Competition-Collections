@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2024-11-18
+date: 2024-12-04
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-12-04】一等奖方案②| 智语互动](https://mp.weixin.qq.com/s/mi_AKzTsUCTcH1_1kePE3Q)
 - [【2024-11-18】竞赛总结：CCF第七届AIOps国际挑战赛-季军方案分享 | 北航EasyRAG](https://mp.weixin.qq.com/s/b0hkWMoKCu-RL_deHPfEbg)
 - [【2024-11-18】竞赛总结：Kaggle LMSYS 大模型奖励建模](https://mp.weixin.qq.com/s/a7BG_vuYj_ho7C8DFpGO0Q)
 - [【2024-11-12】二等奖方案③ | 法律检索与案件分析](https://mp.weixin.qq.com/s/Z3n-YUQABN75EgtP5nIKVw)
