@@ -1,7 +1,7 @@
 ---
 title: "NLP赛事经验帖"
 menuTitle: "NLP"
-date: 2024-12-25
+date: 2024-12-31
 draft: false
 weight: 2
 LastModifierDisplayName: "SWHL"
@@ -21,6 +21,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2024-12-31】竞赛总结：KDD2024 OAG-Challenge](https://mp.weixin.qq.com/s/pINNh1KEY6vV6lSw_R8tAg)
 - [【2024-06-30】2024 KDD CUP-Whoiswho赛道Rank8方案分享](https://mp.weixin.qq.com/s/6bN-2kON9AjQqvTJ1wUfQA)
 - [【2024-02-06】竞赛总结：科大讯飞2023 校招简历项目技能匹配检测](https://mp.weixin.qq.com/s/tw7NsNXEYPI4yi0LuXZraQ)
 - [【2024-01-23】竞赛总结：科大讯飞2023 人岗匹配挑战赛](https://mp.weixin.qq.com/s/fPQ_JhDvoOGMH5Yi7QAg6g)
