@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-01-13】CCF对话式检索增强生成Top1赛后方案](https://mp.weixin.qq.com/s/wOq9qjQjwLO5OZejydhHjg)
 - [【2025-01-13】用LLM做文本分类，微调选base还是chat](https://mp.weixin.qq.com/s/Dh-AhsVrnlojau8Ca0LokA)
 - [【2024-12-04】一等奖方案②| 智语互动](https://mp.weixin.qq.com/s/mi_AKzTsUCTcH1_1kePE3Q)
 - [【2024-11-18】竞赛总结：CCF第七届AIOps国际挑战赛-季军方案分享 | 北航EasyRAG](https://mp.weixin.qq.com/s/b0hkWMoKCu-RL_deHPfEbg)
