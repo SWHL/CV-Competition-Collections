@@ -1,7 +1,7 @@
 ---
 title: "比赛团队访谈"
 menuTitle: "Interview"
-date: 2024-12-31
+date: 2025-01-13
 draft: false
 weight: 5
 LastModifierDisplayName: "SWHL"
